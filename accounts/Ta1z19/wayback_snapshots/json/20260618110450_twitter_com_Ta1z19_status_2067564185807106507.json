@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2067502646542713017",
+    "created_at": "2026-06-18T11:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067564185807106507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067564185807106507",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067502646542713017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo 支持"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1548,
+        "media_key": "3_2067502636509843456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLE-sZ1aUAA0w3j.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2067502646542713017",
+        "created_at": "2026-06-18T11:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067564185807106507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067564185807106507",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067502646542713017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 支持"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067502636509843456"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "conversation_id": "2067502646542713017",
+        "created_at": "2026-06-18T07:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067502646542713017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TadSm60pKd",
+              "end": 91,
+              "expanded_url": "https://x.com/Numiouoo/status/2067502646542713017/photo/1",
+              "media_key": "3_2067502636509843456",
+              "start": 68,
+              "url": "https://t.co/TadSm60pKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067502646542713017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2619,
+          "like_count": 78,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "看原图很不爽，本优质极品毒虫怒而改之\n\n我们就超天酱来的！健全人你们什么档次自己歪瓜裂枣还来泼毒虫脏水，闲得发慌可以多照照镜子！谢谢。 https://t.co/TadSm60pKd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 45,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 905,
+          "like_count": 2448,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1940
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073766049724628992"
+      ],
+      "media_source_tweet_id": [
+        "2073766149444309251"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2073779296389542256",
+    "created_at": "2026-07-05T14:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073779296389542256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2073764220056059904",
+          "start": 3,
+          "username": "Ta1zzy9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yz7ACDByfc",
+          "end": 54,
+          "expanded_url": "https://x.com/Ta1zzy9/status/2073766149444309251/photo/1",
+          "media_key": "3_2073766049724628992",
+          "start": 31,
+          "url": "https://t.co/yz7ACDByfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073779296389542256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073766149444309251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ta1zzy9: 太子第四世轉生 我恨你msk！巡回 https://t.co/yz7ACDByfc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_2073766049724628992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd_PCUaAAAPkIT.jpg",
+        "width": 1286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073766049724628992"
+          ],
+          "media_source_tweet_id": [
+            "2073766149444309251"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2073779296389542256",
+        "created_at": "2026-07-05T14:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073779296389542256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2073764220056059904",
+              "start": 3,
+              "username": "Ta1zzy9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yz7ACDByfc",
+              "end": 54,
+              "expanded_url": "https://x.com/Ta1zzy9/status/2073766149444309251/photo/1",
+              "media_key": "3_2073766049724628992",
+              "start": 31,
+              "url": "https://t.co/yz7ACDByfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073779296389542256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073766149444309251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ta1zzy9: 太子第四世轉生 我恨你msk！巡回 https://t.co/yz7ACDByfc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073766049724628992"
+          ]
+        },
+        "author_id": "2073764220056059904",
+        "conversation_id": "2073766149444309251",
+        "created_at": "2026-07-05T13:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073766149444309251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yz7ACDByfc",
+              "end": 41,
+              "expanded_url": "https://x.com/Ta1zzy9/status/2073766149444309251/photo/1",
+              "media_key": "3_2073766049724628992",
+              "start": 18,
+              "url": "https://t.co/yz7ACDByfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073766149444309251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太子第四世轉生 我恨你msk！巡回 https://t.co/yz7ACDByfc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我 睡在清醒梦",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 836
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T13:43:58.000Z",
+        "description": "第四世 不涉政治不吸毒 我只存在於我",
+        "id": "2073764220056059904",
+        "name": "Ta1z9 4.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073765275468726272/rJcKIDWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Ta1zzy9",
+        "verified": false
+      }
+    ]
+  }
+}

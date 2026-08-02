@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2083196212287787067",
+    "created_at": "2026-07-31T14:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083204322909896994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895212373558075392",
+          "start": 0,
+          "username": "superratking907"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083204322909896994",
+    "in_reply_to_user_id": "1895212373558075392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083202506545635719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@superratking907 我答应她不讲了 尊重她的选择吧。。。唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2083196212287787067",
+        "created_at": "2026-07-31T14:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083204322909896994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895212373558075392",
+              "start": 0,
+              "username": "superratking907"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083204322909896994",
+        "in_reply_to_user_id": "1895212373558075392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083202506545635719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@superratking907 我答应她不讲了 尊重她的选择吧。。。唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895212373558075392",
+        "conversation_id": "2083196212287787067",
+        "created_at": "2026-07-31T14:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083202506545635719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083202506545635719",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083196212287787067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 为什么..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸 疯狂练琴的吉他手 不涉政不吸毒喜欢会回fo 叫我太子。emo/盯鞋/华丽金属 我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 67,
+          "like_count": 1869,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 897
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T20:40:38.000Z",
+        "description": "WA$TED...",
+        "id": "1895212373558075392",
+        "name": "鼠子酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074512741000445952/HRC5TjP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 122,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "superratking907",
+        "verified": false
+      }
+    ]
+  }
+}

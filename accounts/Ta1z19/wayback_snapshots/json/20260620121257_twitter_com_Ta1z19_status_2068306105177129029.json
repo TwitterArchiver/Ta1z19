@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068306105177129029",
+    "created_at": "2026-06-20T12:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068306105177129029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068306105177129029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068247480630972755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 药物报告day39——美国人对列管卡痛产品的抗议\n\n一人受工作带来的疼痛折磨，因此选择使用卡痛自我药疗。在美国宣布要列管卡痛后，他发贴抗议这一政策。\n\n一边污名化处方药使用者，一边纵容医药巨头从卖药中谋取暴利，一边限制人们自我药疗的方式...不管在…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1962,
+        "media_key": "3_2068212621463973888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPEa95W8AATzEc.png",
+        "width": 1804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068306105177129029",
+        "created_at": "2026-06-20T12:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068306105177129029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068306105177129029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068247480630972755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 药物报告day39——美国人对列管卡痛产品的抗议\n\n一人受工作带来的疼痛折磨，因此选择使用卡痛自我药疗。在美国宣布要列管卡痛后，他发贴抗议这一政策。\n\n一边污名化处方药使用者，一边纵容医药巨头从卖药中谋取暴利，一边限制人们自我药疗的方式...不管在…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068212621463973888"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2068247480630972755",
+        "created_at": "2026-06-20T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068247480630972755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDOLVfmiOd",
+              "end": 171,
+              "expanded_url": "https://x.com/SalviaSWC/status/2068247480630972755/photo/1",
+              "media_key": "3_2068212621463973888",
+              "start": 148,
+              "url": "https://t.co/tDOLVfmiOd"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2067881008242823673",
+              "start": 172,
+              "url": "https://t.co/hdHueEJG6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068247480630972755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 874,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067881008242823673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day39——美国人对列管卡痛产品的抗议\n\n一人受工作带来的疼痛折磨，因此选择使用卡痛自我药疗。在美国宣布要列管卡痛后，他发贴抗议这一政策。\n\n一边污名化处方药使用者，一边纵容医药巨头从卖药中谋取暴利，一边限制人们自我药疗的方式...不管在哪，都有这种现象。其中的弊端，想必无需多言了😢 https://t.co/tDOLVfmiOd https://t.co/hdHueEJG6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 53,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 464
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4890,
+          "following_count": 1022,
+          "like_count": 24613,
+          "listed_count": 12,
+          "media_count": 557,
+          "tweet_count": 7927
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

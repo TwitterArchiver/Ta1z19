@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2064769755123523661",
+    "created_at": "2026-06-10T18:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T19:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064769755123523661"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064769755123523661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想下机。每次下机都感觉自己亏损了。睡醒见DMT！DPT！DiPT！我好爱色胺类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2064769755123523661",
+        "created_at": "2026-06-10T18:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064769755123523661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064769755123523661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想下机。每次下机都感觉自己亏损了。睡醒见DMT！DPT！DiPT！我好爱色胺类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n🎵🎸与贝斯手 漂移\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（已老实第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 37,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

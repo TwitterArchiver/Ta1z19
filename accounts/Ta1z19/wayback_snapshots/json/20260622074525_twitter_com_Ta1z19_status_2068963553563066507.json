@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068708922354270486",
+    "created_at": "2026-06-22T07:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068963553563066507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054233823899160576",
+          "start": 0,
+          "username": "omggggsad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068963553563066507",
+    "in_reply_to_user_id": "2054233823899160576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068954751212065158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omggggsad 不推荐oxy联用唑吡坦 单独oxy就很爽了 +唑吡坦就是断片失忆+一点点缓解焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068708922354270486",
+        "created_at": "2026-06-22T07:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068963553563066507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054233823899160576",
+              "start": 0,
+              "username": "omggggsad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068963553563066507",
+        "in_reply_to_user_id": "2054233823899160576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068954751212065158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omggggsad 不推荐oxy联用唑吡坦 单独oxy就很爽了 +唑吡坦就是断片失忆+一点点缓解焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054233823899160576",
+        "conversation_id": "2068708922354270486",
+        "created_at": "2026-06-22T07:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068954751212065158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068954751212065158",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068708922354270486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 这啥感觉 我也想试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 58,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 511
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T16:15:29.000Z",
+        "description": "我好懵逼呀。我想交一些国外的同好朋友。",
+        "id": "2054233823899160576",
+        "name": "Sadday",
+        "pinned_tweet_id": "2066903988688351508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067646548599623680/PtAPdPbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 62,
+          "like_count": 1137,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "omggggsad",
+        "verified": false
+      }
+    ]
+  }
+}

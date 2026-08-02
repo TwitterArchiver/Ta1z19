@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068218868108320781",
+    "created_at": "2026-06-20T06:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068218868108320781"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068218868108320781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有医院疼痛科都应该配备好精一精二类药物 而不是这么一个病人 让他换着医院跑 注：中国大陆明确规定三甲医院应当药物充足不应出现缺药少药的情况 敢问有几家医院做到了 社会环境对我一个病人很不友好。痛得要死了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068218868108320781",
+        "created_at": "2026-06-20T06:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068218868108320781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068218868108320781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有医院疼痛科都应该配备好精一精二类药物 而不是这么一个病人 让他换着医院跑 注：中国大陆明确规定三甲医院应当药物充足不应出现缺药少药的情况 敢问有几家医院做到了 社会环境对我一个病人很不友好。痛得要死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 53,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2056239946642379074",
+    "created_at": "2026-05-30T04:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060585901949141455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2026404174313996288",
+          "start": 0,
+          "username": "yugo0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060585901949141455",
+    "in_reply_to_user_id": "2026404174313996288",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056239946642379074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yugo0n nice"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4400,
+        "height": 1280,
+        "media_key": "13_2056239893014048768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056239893014048768/img/67xhAVpTvwptD0RE.jpg",
+        "public_metrics": {
+          "view_count": 7764
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056239893014048768/vid/avc1/320x568/ud_77c_JoEHq-g3u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056239893014048768/vid/avc1/480x852/AGtkPLJHd-x4gSlj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056239893014048768/vid/avc1/720x1280/hT12SMW8iodHMMsq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056239893014048768/pl/USRZP6rUH8vfc80P.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2056239946642379074",
+        "created_at": "2026-05-30T04:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060585901949141455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2026404174313996288",
+              "start": 0,
+              "username": "yugo0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060585901949141455",
+        "in_reply_to_user_id": "2026404174313996288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056239946642379074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yugo0n nice"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056239893014048768"
+          ]
+        },
+        "author_id": "2026404174313996288",
+        "conversation_id": "2056239946642379074",
+        "created_at": "2026-05-18T05:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056239946642379074"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 109,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 125,
+              "start": 118,
+              "tag": "kettwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJnZANh185",
+              "end": 149,
+              "expanded_url": "https://x.com/yugo0n/status/2056239946642379074/video/1",
+              "media_key": "13_2056239893014048768",
+              "start": 126,
+              "url": "https://t.co/rJnZANh185"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056239946642379074",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 16008,
+          "like_count": 561,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "had to get my gf to send me this video bc i forgot she even took me taking down this mountain of pony powder\n#drugtwt #kettwt https://t.co/rJnZANh185"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n被小人以施奸计被迫转世\n双相 现在已经不自伤了！很棒！\n药理学爱好者/化学爱好者/种植学爱好者",
+        "id": "2058988352054218752",
+        "name": "Tz（已老实第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 21,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 80
+        },
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T21:09:46.000Z",
+        "description": "20\nbeen to rehab #5 times",
+        "id": "2026404174313996288",
+        "name": "7chan",
+        "pinned_tweet_id": "2056239946642379074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035532707435053056/EFiZ6aeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 28,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 98
+        },
+        "username": "yugo0n",
+        "verified": false
+      }
+    ]
+  }
+}

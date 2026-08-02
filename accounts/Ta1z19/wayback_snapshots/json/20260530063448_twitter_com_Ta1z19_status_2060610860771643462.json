@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2060556912723448179",
+    "created_at": "2026-05-30T06:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060610860771643462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1782303137136852992",
+          "start": 0,
+          "username": "h1zh816060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060610860771643462",
+    "in_reply_to_user_id": "1782303137136852992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060589415819596141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1zh816060 不好开的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2060556912723448179",
+        "created_at": "2026-05-30T06:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060610860771643462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1782303137136852992",
+              "start": 0,
+              "username": "h1zh816060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060610860771643462",
+        "in_reply_to_user_id": "1782303137136852992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060589415819596141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1zh816060 不好开的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782303137136852992",
+        "conversation_id": "2060556912723448179",
+        "created_at": "2026-05-30T05:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060589415819596141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060589415819596141",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060574989313823069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 剧烈羡慕，医生和我说羟考酮是癌症用药一般开不出来😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n被小人以施奸计被迫转世\n双相 现在已经不自伤了！很棒！\n药理学爱好者/化学爱好者/种植学爱好者",
+        "id": "2058988352054218752",
+        "name": "Tz（已老实第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 21,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 83
+        },
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:59:28.000Z",
+        "description": "是个牛逼超级双双双向INFP-T音乐制作人/DJ/下北沢传奇吉他手(勉強中🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h1zh8160",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h1zh8160",
+                "start": 0,
+                "url": "https://t.co/EfFuKlfeku"
+              }
+            ]
+          }
+        },
+        "id": "1782303137136852992",
+        "location": "Suginami-ku, Tokyo",
+        "name": "一澤子",
+        "pinned_tweet_id": "2035385903506759842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057386038000275456/9eMQ0ruv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 113,
+          "like_count": 1109,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/EfFuKlfeku",
+        "username": "h1zh816060",
+        "verified": true
+      }
+    ]
+  }
+}

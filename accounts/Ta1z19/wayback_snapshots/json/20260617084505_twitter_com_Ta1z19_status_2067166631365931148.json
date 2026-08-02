@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2066760262880027124",
+    "created_at": "2026-06-17T08:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067166631365931148"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067166631365931148",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066760262880027124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "强效阿片是对重度疼痛患者的温暖 所以它有获取门槛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2066760262880027124",
+        "created_at": "2026-06-17T08:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067166631365931148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067166631365931148",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066760262880027124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "强效阿片是对重度疼痛患者的温暖 所以它有获取门槛。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2066760262880027124",
+        "created_at": "2026-06-16T05:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066760262880027124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066760262880027124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1387,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悔恨当初又享受当下，以前用弱阿片觉得也就那样怎么可能强烈成瘾还没有迷幻剂好玩。但是真的陷入强阿片后戒断难受的要死要靠普瑞缓解焦虑+功能阿片维持躯体不痛+泡冰水。虽悔恨当初但又享受当下。吗啡的痒像天使的羽毛抚摸肉体带来的调戏和沉重温暖，oxy的欣快感无与伦比，芬太尼太脏不推荐玩一次就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒 正常合理用药 我只是个病人。药理学爱好者/化学爱好者/种植爱好者/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz喵3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 47,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

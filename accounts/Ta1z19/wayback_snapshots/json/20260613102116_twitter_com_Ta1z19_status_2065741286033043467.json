@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2065683613195399439",
+    "created_at": "2026-06-13T10:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065741286033043467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449853213974528",
+          "start": 0,
+          "username": "xiaojiangnie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065741286033043467",
+    "in_reply_to_user_id": "2041449853213974528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065683613195399439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojiangnie 这期更是神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065683597466673152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrISZVaIAAT032.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2065683613195399439",
+        "created_at": "2026-06-13T10:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065741286033043467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449853213974528",
+              "start": 0,
+              "username": "xiaojiangnie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065741286033043467",
+        "in_reply_to_user_id": "2041449853213974528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065683613195399439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojiangnie 这期更是神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065683597466673152"
+          ]
+        },
+        "author_id": "2041449853213974528",
+        "conversation_id": "2065683613195399439",
+        "created_at": "2026-06-13T06:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065683613195399439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UMFdGean8",
+              "end": 78,
+              "expanded_url": "https://x.com/xiaojiangnie/status/2065683613195399439/photo/1",
+              "media_key": "3_2065683597466673152",
+              "start": 55,
+              "url": "https://t.co/2UMFdGean8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065683613195399439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1432,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我™跟个傻子似的，喝了一壶电蚊香液，被™救护车拉去洗胃，我真可笑，洗胃的护士都™认识我了，哈哈哈哈哈哈 https://t.co/2UMFdGean8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n🎵🎸与贝斯手 迷幻掌控者 油灯管信徒 💉信徒\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 40,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:36:14.000Z",
+        "description": "咱其实不爱吃小孩呀喵 hrt🍥2026.3.28 已炸柜（第三天炸柜极速版）出厂日期2009.12.17 偏天赋一点天生雌高喵～ 蓄发中喵，闲的没事就爱吃点小糖呀喵🍥咱是心理委员喵，有不开心的阔以找咱呀喵～",
+        "id": "2041449853213974528",
+        "location": "青岛市",
+        "name": "小蒋吃小孩🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041457265644036096/RG8FA8Lb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 285,
+          "like_count": 2052,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 117
+        },
+        "username": "xiaojiangnie",
+        "verified": false
+      }
+    ]
+  }
+}

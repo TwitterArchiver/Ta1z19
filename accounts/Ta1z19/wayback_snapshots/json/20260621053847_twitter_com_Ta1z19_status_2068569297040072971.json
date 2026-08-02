@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068130180854681902",
+    "created_at": "2026-06-21T05:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068569297040072971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004594450321080324",
+          "start": 0,
+          "username": "li06207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068569297040072971",
+    "in_reply_to_user_id": "2004594450321080324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068289064131059767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li06207 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068130180854681902",
+        "created_at": "2026-06-21T05:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068569297040072971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004594450321080324",
+              "start": 0,
+              "username": "li06207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068569297040072971",
+        "in_reply_to_user_id": "2004594450321080324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068289064131059767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li06207 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004594450321080324",
+        "conversation_id": "2068130180854681902",
+        "created_at": "2026-06-20T11:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068289064131059767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068289064131059767",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068130180854681902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 酷！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 55,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T16:45:43.000Z",
+        "description": "Les m brat sub 0.3",
+        "id": "2004594450321080324",
+        "name": "^_^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058744372410351617/89QdTujP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 19,
+          "like_count": 4410,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "li06207",
+        "verified": false
+      }
+    ]
+  }
+}

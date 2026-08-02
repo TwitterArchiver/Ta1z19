@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068256248081125733",
+    "created_at": "2026-06-21T12:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068669808758149207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1834129912061411328",
+          "start": 0,
+          "username": "biqun42094"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068669808758149207",
+    "in_reply_to_user_id": "1834129912061411328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068614670353830197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biqun42094 残留物只有缓释外衣哈哈🥸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068256248081125733",
+        "created_at": "2026-06-21T12:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068669808758149207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1834129912061411328",
+              "start": 0,
+              "username": "biqun42094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068669808758149207",
+        "in_reply_to_user_id": "1834129912061411328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068614670353830197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biqun42094 残留物只有缓释外衣哈哈🥸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834129912061411328",
+        "conversation_id": "2068256248081125733",
+        "created_at": "2026-06-21T08:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068614670353830197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068614670353830197",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068515411134652883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 还想剧烈品尝残留物呢😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 56,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T07:20:31.000Z",
+        "description": "",
+        "id": "1834129912061411328",
+        "name": "Tell me",
+        "pinned_tweet_id": "2068191828172767490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067669742182408192/SiXbw-N2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 67,
+          "like_count": 1327,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "biqun42094",
+        "verified": false
+      }
+    ]
+  }
+}

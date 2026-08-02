@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2060657014515327142",
+    "created_at": "2026-05-30T09:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060659738875170897"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060659738875170897",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060657014515327142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这次旅途证明了两药联用会发生很严重的呼吸抑制 我们俩心率也一直掉在60-70左右 强烈内外幻 剧烈不推荐大家没有陪同的情况下联用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2060657014515327142",
+        "created_at": "2026-05-30T09:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060659738875170897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060659738875170897",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060657014515327142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这次旅途证明了两药联用会发生很严重的呼吸抑制 我们俩心率也一直掉在60-70左右 强烈内外幻 剧烈不推荐大家没有陪同的情况下联用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2060657014515327142",
+        "created_at": "2026-05-30T09:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060657014515327142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060657014515327142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回顾一下\n昨晚19:30左右我和另一个人同时服用750mg普瑞（纯西柚汁服下）\nT0+1感觉毫无药效（但其实已经在药效上升期了）这时我鼻吸15mg羟考酮 她鼻吸10mg羟考酮。直接顶懵了 我俩都出现了强烈内幻并且还有外幻 躺在床上享受伴有肌肉震颤而且去卫生间共济失调很严重\nT0+2 她呕吐了 但是我没呕吐的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n被小人以施奸计被迫转世\n双相 现在已经不自伤了！很棒！\n药理学爱好者/化学爱好者/种植学爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（已老实第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 21,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

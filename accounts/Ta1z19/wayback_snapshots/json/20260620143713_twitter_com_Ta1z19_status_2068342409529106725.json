@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068342390445006849"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068130180854681902",
+    "created_at": "2026-06-20T14:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068342409529106725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1090806897660162048",
+          "start": 0,
+          "username": "tttew1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j58fZhrb9R",
+          "end": 31,
+          "expanded_url": "https://x.com/Ta1z19/status/2068342409529106725/photo/1",
+          "media_key": "3_2068342390445006849",
+          "start": 8,
+          "url": "https://t.co/j58fZhrb9R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068342409529106725",
+    "in_reply_to_user_id": "1090806897660162048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068281095238594733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttew1 https://t.co/j58fZhrb9R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1872,
+        "media_key": "3_2068342390445006849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ6chBbYAEMXac.jpg",
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068342390445006849"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068130180854681902",
+        "created_at": "2026-06-20T14:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068342409529106725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1090806897660162048",
+              "start": 0,
+              "username": "tttew1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j58fZhrb9R",
+              "end": 31,
+              "expanded_url": "https://x.com/Ta1z19/status/2068342409529106725/photo/1",
+              "media_key": "3_2068342390445006849",
+              "start": 8,
+              "url": "https://t.co/j58fZhrb9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068342409529106725",
+        "in_reply_to_user_id": "1090806897660162048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068281095238594733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttew1 https://t.co/j58fZhrb9R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090806897660162048",
+        "conversation_id": "2068130180854681902",
+        "created_at": "2026-06-20T10:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068281095238594733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068281095238594733",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068130180854681902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 谁给你做的 为什么感觉没操作好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 52,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 481
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-31T03:00:05.000Z",
+        "description": "",
+        "id": "1090806897660162048",
+        "location": "California, USA",
+        "name": "tttew",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515246480554180610/3KL1LTfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1375,
+          "like_count": 12488,
+          "listed_count": 4,
+          "media_count": 0,
+          "tweet_count": 4938
+        },
+        "url": "",
+        "username": "tttew1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2070897129741009322",
+    "created_at": "2026-06-27T16:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070902129917915561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779585832210432",
+          "start": 0,
+          "username": "71y11Qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070902129917915561",
+    "in_reply_to_user_id": "1900779585832210432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070897129741009322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@71y11Qy 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070897115392266240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1N9FFWUAAjSan.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2070897115409113088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1N9FJXYAA3O9Q.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2070897129741009322",
+        "created_at": "2026-06-27T16:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070902129917915561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779585832210432",
+              "start": 0,
+              "username": "71y11Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070902129917915561",
+        "in_reply_to_user_id": "1900779585832210432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070897129741009322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@71y11Qy 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070897115392266240",
+            "3_2070897115409113088"
+          ]
+        },
+        "author_id": "1900779585832210432",
+        "conversation_id": "2070897129741009322",
+        "created_at": "2026-06-27T15:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070897129741009322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXCU5aMuKe",
+              "end": 30,
+              "expanded_url": "https://x.com/71y11Qy/status/2070897129741009322/photo/1",
+              "media_key": "3_2070897115392266240",
+              "start": 7,
+              "url": "https://t.co/BXCU5aMuKe"
+            },
+            {
+              "display_url": "pic.x.com/BXCU5aMuKe",
+              "end": 30,
+              "expanded_url": "https://x.com/71y11Qy/status/2070897129741009322/photo/1",
+              "media_key": "3_2070897115409113088",
+              "start": 7,
+              "url": "https://t.co/BXCU5aMuKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070897129741009322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美的不像我了 https://t.co/BXCU5aMuKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo@正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 58,
+          "like_count": 1302,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 625
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪纯绿88坐标10｜药物滥用，酒精滥用。穿孔，扩耳。我喜欢中西部情绪乐数摇黑金以及很多。想和同类同好互fo 漏了可以私信我 我很好相处 喜欢有礼貌的人 大部分时间在学校请等等我…",
+        "id": "1900779585832210432",
+        "location": "外太空",
+        "name": "71",
+        "pinned_tweet_id": "2067931471990378637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 364,
+          "like_count": 4156,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 2998
+        },
+        "url": "",
+        "username": "71y11Qy",
+        "verified": false
+      }
+    ]
+  }
+}

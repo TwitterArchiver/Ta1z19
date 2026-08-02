@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2083195403508547733",
+    "created_at": "2026-07-31T14:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083195403508547733"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083195403508547733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那天她和我说了想离开 我不想她走 但是我尊重她的选择 她走之前我说了各种美好 希望她有些留恋，但是她还是把我丢下了 走之前她说她爱我。还是做不到答应的不难过 晚安💤奈奈 我会连带着你的那份一起去看美好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2083195403508547733",
+        "created_at": "2026-07-31T14:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083195403508547733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083195403508547733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那天她和我说了想离开 我不想她走 但是我尊重她的选择 她走之前我说了各种美好 希望她有些留恋，但是她还是把我丢下了 走之前她说她爱我。还是做不到答应的不难过 晚安💤奈奈 我会连带着你的那份一起去看美好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸 疯狂练琴的吉他手 不涉政不吸毒喜欢会回fo 叫我太子。emo/盯鞋/华丽金属 我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 66,
+          "like_count": 1866,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 893
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

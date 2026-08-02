@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2066124502812295283",
+    "created_at": "2026-06-14T11:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066124502812295283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lomyral896444/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/lomyral896444/status/2065380043808002458",
+          "start": 16,
+          "url": "https://t.co/aQkisrf0OZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066124502812295283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065380043808002458",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "千万要用装满oxy的针扎我啊！ https://t.co/aQkisrf0OZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2066124502812295283",
+        "created_at": "2026-06-14T11:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066124502812295283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lomyral896444/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/lomyral896444/status/2065380043808002458",
+              "start": 16,
+              "url": "https://t.co/aQkisrf0OZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066124502812295283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065380043808002458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千万要用装满oxy的针扎我啊！ https://t.co/aQkisrf0OZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2065373427150827580",
+        "created_at": "2026-06-12T10:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065380043808002458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065380043808002458",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065373427150827580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千万不要用装满oxy的针扎我啊😭不然我会爽得昏过去的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n🎵🎸与贝斯手 迷幻掌控者 油灯管信徒 💉信徒\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 41,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|骚b：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "TheB17w153"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 206,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 113
+        },
+        "username": "Lomyral896444",
+        "verified": true
+      }
+    ]
+  }
+}

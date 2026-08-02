@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2071181046985707698",
+    "created_at": "2026-06-28T15:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071250437609783771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591344896757026821",
+          "start": 0,
+          "username": "xng328460971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071250437609783771",
+    "in_reply_to_user_id": "1591344896757026821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071181046985707698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xng328460971 为何有人会想变蠢？我是真的很好奇原因🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071181033920450560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5QLUBa0AARuwh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2071181046985707698",
+        "created_at": "2026-06-28T15:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071250437609783771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591344896757026821",
+              "start": 0,
+              "username": "xng328460971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071250437609783771",
+        "in_reply_to_user_id": "1591344896757026821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071181046985707698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xng328460971 为何有人会想变蠢？我是真的很好奇原因🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071181033920450560"
+          ]
+        },
+        "author_id": "1591344896757026821",
+        "conversation_id": "2071181046985707698",
+        "created_at": "2026-06-28T10:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071181046985707698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ObwxlivJsV",
+              "end": 41,
+              "expanded_url": "https://x.com/xng328460971/status/2071181046985707698/photo/1",
+              "media_key": "3_2071181033920450560",
+              "start": 18,
+              "url": "https://t.co/ObwxlivJsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071181046985707698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想问一下就是。这个有娱乐价值吗？ https://t.co/ObwxlivJsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo@正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 59,
+          "like_count": 1374,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T08:19:34.000Z",
+        "description": "我只是一个路人…\n｜自伤｜od｜同类互fo｜画画的｜不加墙内｜不吵架不站队立场是关我屁事",
+        "id": "1591344896757026821",
+        "name": "小人",
+        "pinned_tweet_id": "2047528717719642466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014266753748996097/q2q0pA-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 172,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 400
+        },
+        "url": "",
+        "username": "xng328460971",
+        "verified": false
+      }
+    ]
+  }
+}

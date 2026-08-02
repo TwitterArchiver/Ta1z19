@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068130180854681902",
+    "created_at": "2026-06-20T10:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068278971440230748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1560938980819947520",
+          "start": 0,
+          "username": "chen0910twice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068278971440230748",
+    "in_reply_to_user_id": "1560938980819947520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068276821343506928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen0910twice 是真的很痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068130180854681902",
+        "created_at": "2026-06-20T10:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068278971440230748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1560938980819947520",
+              "start": 0,
+              "username": "chen0910twice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068278971440230748",
+        "in_reply_to_user_id": "1560938980819947520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068276821343506928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen0910twice 是真的很痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560938980819947520",
+        "conversation_id": "2068130180854681902",
+        "created_at": "2026-06-20T10:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068276821343506928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068276821343506928",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068130180854681902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 啊啊啊啊感觉好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 53,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T10:37:16.000Z",
+        "description": "喜欢我就给我打钱",
+        "id": "1560938980819947520",
+        "name": "谌",
+        "pinned_tweet_id": "1615665287629803523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608387237632217088/1FiFE4CE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 56,
+          "like_count": 874,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "chen0910twice",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2069124791706189956",
+    "created_at": "2026-06-22T18:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T19:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069125868522532982"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069125868522532982",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069124791706189956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是报告员mia：肌肉震颤 幻听 瘙痒 欣快感溢出 呼吸变浅变慢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069124785234415616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcCB4vakAAAW2e.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2069124791706189956",
+        "created_at": "2026-06-22T18:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069125868522532982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069125868522532982",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069124791706189956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是报告员mia：肌肉震颤 幻听 瘙痒 欣快感溢出 呼吸变浅变慢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069124785234415616"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069124791706189956",
+        "created_at": "2026-06-22T18:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069124791706189956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwEsQn38nU",
+              "end": 92,
+              "expanded_url": "https://x.com/Ta1z19/status/2069124791706189956/photo/1",
+              "media_key": "3_2069124785234415616",
+              "start": 69,
+              "url": "https://t.co/CwEsQn38nU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069124791706189956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼻吸20mg oxy+舌下含服5mg唑吡坦 再感受一下 现在眼神涣散打字困难 出现幻听：（天空怪呃哈哈哈哈）很邪恶的笑 我不懂我在干嘛。 https://t.co/CwEsQn38nU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 59,
+          "like_count": 987,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 521
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

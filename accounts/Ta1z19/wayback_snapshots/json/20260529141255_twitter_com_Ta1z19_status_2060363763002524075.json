@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060363756618809344"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060304206599487703",
+    "created_at": "2026-05-29T14:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060363763002524075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1959893383633358848",
+          "start": 0,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 23,
+          "id": "1632765156244738048",
+          "start": 8,
+          "username": "xiaotunsalutee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SmSfCCxhyR",
+          "end": 49,
+          "expanded_url": "https://x.com/Ta1z19/status/2060363763002524075/photo/1",
+          "media_key": "3_2060363756618809344",
+          "start": 26,
+          "url": "https://t.co/SmSfCCxhyR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060363763002524075",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060363272541569207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cbscfe @xiaotunsalutee 来 https://t.co/SmSfCCxhyR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060363756618809344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfh651agAARo8S.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060363756618809344"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060304206599487703",
+        "created_at": "2026-05-29T14:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060363763002524075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 23,
+              "id": "1632765156244738048",
+              "start": 8,
+              "username": "xiaotunsalutee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmSfCCxhyR",
+              "end": 49,
+              "expanded_url": "https://x.com/Ta1z19/status/2060363763002524075/photo/1",
+              "media_key": "3_2060363756618809344",
+              "start": 26,
+              "url": "https://t.co/SmSfCCxhyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060363763002524075",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060363272541569207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @xiaotunsalutee 来 https://t.co/SmSfCCxhyR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2060304206599487703",
+        "created_at": "2026-05-29T14:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060363272541569207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1632765156244738048",
+              "start": 0,
+              "username": "xiaotunsalutee"
+            },
+            {
+              "end": 23,
+              "id": "2058988352054218752",
+              "start": 16,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060363272541569207",
+        "in_reply_to_user_id": "1632765156244738048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060342537702056180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotunsalutee @Ta1z19 我，也，要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n被小人以施奸计被迫转世\n双相 现在已经不自伤了！很棒！\n药理学爱好者/化学爱好者/种植学爱好者",
+        "id": "2058988352054218752",
+        "name": "Ta1z9（第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 25,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 74
+        },
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 669,
+          "like_count": 24068,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 5741
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T15:28:52.000Z",
+        "description": "宝宝们跟我互fo呀../我有精神疾病/od\n金属/二刺猿\n好想要同样属性的朋友😭",
+        "id": "1632765156244738048",
+        "location": "异世界",
+        "name": "aphrodite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872266257396809728/zyHOZP_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 157,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 169
+        },
+        "username": "xiaotunsalutee",
+        "verified": false
+      }
+    ]
+  }
+}

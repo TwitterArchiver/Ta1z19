@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2060416955732099154",
+    "created_at": "2026-05-30T13:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060712784523133325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        },
+        {
+          "end": 21,
+          "id": "2005290453219033088",
+          "start": 9,
+          "username": "zzzlovezhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060712784523133325",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060649157917093911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu @zzzlovezhen 这他妈就是生活"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060649157917093911].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060649157917093911",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060649157917093911"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2060416955732099154",
+        "created_at": "2026-05-30T13:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060712784523133325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            },
+            {
+              "end": 21,
+              "id": "2005290453219033088",
+              "start": 9,
+              "username": "zzzlovezhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060712784523133325",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060649157917093911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu @zzzlovezhen 这他妈就是生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n被小人以施奸计被迫转世\n双相 现在已经不自伤了！很棒！\n药理学爱好者/化学爱好者/种植学爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（已老实第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 22,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 455,
+          "like_count": 5789,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3424
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T14:51:27.000Z",
+        "description": "對我來說妳也只是",
+        "id": "2005290453219033088",
+        "location": "坏结局",
+        "name": "我想我會變成這樣都是你害的",
+        "pinned_tweet_id": "2011307075331375430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009981046746689543/22Z3tca2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 50,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 724
+        },
+        "username": "zzzlovezhen",
+        "verified": false
+      }
+    ]
+  }
+}

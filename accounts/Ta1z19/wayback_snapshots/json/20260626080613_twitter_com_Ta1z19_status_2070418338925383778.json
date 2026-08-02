@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2070389315147018354",
+    "created_at": "2026-06-26T08:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070418338925383778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842268081567272960",
+          "start": 0,
+          "username": "BrittanyBe89332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070418338925383778",
+    "in_reply_to_user_id": "1842268081567272960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070389315147018354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrittanyBe89332 早该列"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2070389315147018354",
+        "created_at": "2026-06-26T08:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070418338925383778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842268081567272960",
+              "start": 0,
+              "username": "BrittanyBe89332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070418338925383778",
+        "in_reply_to_user_id": "1842268081567272960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070389315147018354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrittanyBe89332 早该列"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842268081567272960",
+        "conversation_id": "2070389315147018354",
+        "created_at": "2026-06-26T06:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070389315147018354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070389315147018354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 538,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "tl要列管了我的狗狗药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo@正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 57,
+          "like_count": 1223,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:18:45.000Z",
+        "description": "私信只回口令   @Deehoo0203 | ins↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Deehoo0203"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/stalkill11?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/stalkill11?igsh=MWl3Z282YXVhYmJiNw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/AqzBHlheJ0"
+              }
+            ]
+          }
+        },
+        "id": "1842268081567272960",
+        "location": "🚪288/520/1314",
+        "name": "我咋哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979975049563066368/WOhOVKlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36054,
+          "following_count": 237,
+          "like_count": 934,
+          "listed_count": 73,
+          "media_count": 139,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/AqzBHlheJ0",
+        "username": "BrittanyBe89332",
+        "verified": false
+      }
+    ]
+  }
+}

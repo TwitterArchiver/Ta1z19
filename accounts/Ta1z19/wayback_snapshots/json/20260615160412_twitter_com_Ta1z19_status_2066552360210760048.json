@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2066550345652912240",
+    "created_at": "2026-06-15T16:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066552360210760048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1384831606276476930",
+          "start": 0,
+          "username": "Xxx_kkkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066552360210760048",
+    "in_reply_to_user_id": "1384831606276476930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066550345652912240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxx_kkkl 合理！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2066550345652912240",
+        "created_at": "2026-06-15T16:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066552360210760048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1384831606276476930",
+              "start": 0,
+              "username": "Xxx_kkkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066552360210760048",
+        "in_reply_to_user_id": "1384831606276476930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066550345652912240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxx_kkkl 合理！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384831606276476930",
+        "conversation_id": "2066550345652912240",
+        "created_at": "2026-06-15T15:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066550345652912240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ta1z19/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ta1z19/status/2066437388075925867",
+              "start": 4,
+              "url": "https://t.co/LAAdBtNtUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066550345652912240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066437388075925867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是神 https://t.co/LAAdBtNtUa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度\n🎵🎸与贝斯手 迷幻掌控者 油灯管信徒 💉信徒\n药理学爱好者/化学爱好者/种植爱好者/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "太子喵3.0",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 43,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "一个违背道德良知的神棍。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/MFy5tkgAMP"
+              }
+            ]
+          }
+        },
+        "id": "1384831606276476930",
+        "name": "Jahseh 🆁🅲（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066401126182981632/EqAfAy5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 91,
+          "like_count": 57,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/MFy5tkgAMP",
+        "username": "Xxx_kkkl",
+        "verified": false
+      }
+    ]
+  }
+}

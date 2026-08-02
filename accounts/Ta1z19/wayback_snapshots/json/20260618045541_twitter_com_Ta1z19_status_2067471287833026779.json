@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067471247232073728",
+        "3_2067471247202717696"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067471287833026779",
+    "created_at": "2026-06-18T04:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067471287833026779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pI2ZfBbgcQ",
+          "end": 31,
+          "expanded_url": "https://x.com/Ta1z19/status/2067471287833026779/photo/1",
+          "media_key": "3_2067471247232073728",
+          "start": 8,
+          "url": "https://t.co/pI2ZfBbgcQ"
+        },
+        {
+          "display_url": "pic.x.com/pI2ZfBbgcQ",
+          "end": 31,
+          "expanded_url": "https://x.com/Ta1z19/status/2067471287833026779/photo/1",
+          "media_key": "3_2067471247202717696",
+          "start": 8,
+          "url": "https://t.co/pI2ZfBbgcQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067471287833026779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "肺疼是在涨肌肉 https://t.co/pI2ZfBbgcQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067471247232073728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEiJTqaAAAJd5W.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067471247202717696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEiJTjaEAA8BlT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067471247232073728",
+            "3_2067471247202717696"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067471287833026779",
+        "created_at": "2026-06-18T04:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067471287833026779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pI2ZfBbgcQ",
+              "end": 31,
+              "expanded_url": "https://x.com/Ta1z19/status/2067471287833026779/photo/1",
+              "media_key": "3_2067471247232073728",
+              "start": 8,
+              "url": "https://t.co/pI2ZfBbgcQ"
+            },
+            {
+              "display_url": "pic.x.com/pI2ZfBbgcQ",
+              "end": 31,
+              "expanded_url": "https://x.com/Ta1z19/status/2067471287833026779/photo/1",
+              "media_key": "3_2067471247202717696",
+              "start": 8,
+              "url": "https://t.co/pI2ZfBbgcQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067471287833026779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肺疼是在涨肌肉 https://t.co/pI2ZfBbgcQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 43,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

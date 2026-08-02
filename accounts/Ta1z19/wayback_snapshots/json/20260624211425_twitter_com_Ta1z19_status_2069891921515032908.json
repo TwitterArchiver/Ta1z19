@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2069792646391087347",
+    "created_at": "2026-06-24T21:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T22:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069891921515032908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2025905993935405057",
+          "start": 0,
+          "username": "ganzeos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069891921515032908",
+    "in_reply_to_user_id": "2025905993935405057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069890950168510816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ganzeos 嗯对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2069792646391087347",
+        "created_at": "2026-06-24T21:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T22:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069891921515032908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2025905993935405057",
+              "start": 0,
+              "username": "ganzeos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069891921515032908",
+        "in_reply_to_user_id": "2025905993935405057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069890950168510816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ganzeos 嗯对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025905993935405057",
+        "conversation_id": "2069792646391087347",
+        "created_at": "2026-06-24T21:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T22:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069890950168510816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069890950168510816",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069792646391087347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 好想要这个药，可惜太难买了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 西点师 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 56,
+          "like_count": 1155,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T12:10:11.000Z",
+        "description": "我叫甘泽\n直男（不顺直\n坐标浙江宁波\n生日12.24\n08年摩羯座isfj\n喜欢玩游戏/第五人格/王者荣耀/vrchat/我的世界（java）\n喜欢永雏塔菲，不追星、不怎么磕cp、🈚雷点（小粉红走开\n本人性格温良（除了游戏里面？！不过不会去骂朋友）\n可以找我玩游戏",
+        "id": "2025905993935405057",
+        "name": "甘泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053115508879179778/MKU_anOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "ganzeos",
+        "verified": false
+      }
+    ]
+  }
+}

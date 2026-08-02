@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077039210406785024"
+      ],
+      "media_source_tweet_id": [
+        "2077039220695437743"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2077039352883138839",
+    "created_at": "2026-07-14T14:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077039352883138839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2073764220056059904",
+          "start": 3,
+          "username": "Ta1zzy9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XbpZ4VeAwl",
+          "end": 69,
+          "expanded_url": "https://x.com/Ta1zzy9/status/2077039220695437743/photo/1",
+          "media_key": "3_2077039210406785024",
+          "start": 46,
+          "url": "https://t.co/XbpZ4VeAwl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077039352883138839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077039220695437743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ta1zzy9: 提前巡回我的每一位互fo 你们对我来说很重要啊我不要和你们走散！ https://t.co/XbpZ4VeAwl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1234,
+        "media_key": "3_2077039210406785024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMgKEDasAA0pfl.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077039210406785024"
+          ],
+          "media_source_tweet_id": [
+            "2077039220695437743"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2077039352883138839",
+        "created_at": "2026-07-14T14:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077039352883138839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2073764220056059904",
+              "start": 3,
+              "username": "Ta1zzy9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbpZ4VeAwl",
+              "end": 69,
+              "expanded_url": "https://x.com/Ta1zzy9/status/2077039220695437743/photo/1",
+              "media_key": "3_2077039210406785024",
+              "start": 46,
+              "url": "https://t.co/XbpZ4VeAwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077039352883138839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077039220695437743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ta1zzy9: 提前巡回我的每一位互fo 你们对我来说很重要啊我不要和你们走散！ https://t.co/XbpZ4VeAwl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077039210406785024"
+          ]
+        },
+        "author_id": "2073764220056059904",
+        "conversation_id": "2077039220695437743",
+        "created_at": "2026-07-14T14:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077039220695437743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbpZ4VeAwl",
+              "end": 56,
+              "expanded_url": "https://x.com/Ta1zzy9/status/2077039220695437743/photo/1",
+              "media_key": "3_2077039210406785024",
+              "start": 33,
+              "url": "https://t.co/XbpZ4VeAwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077039220695437743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "提前巡回我的每一位互fo 你们对我来说很重要啊我不要和你们走散！ https://t.co/XbpZ4VeAwl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 叫我太子。emo与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 72,
+          "like_count": 1841,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 875
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T13:43:58.000Z",
+        "description": "第四世 不涉政治不吸毒 喜欢会回fo \n我只存在於我/华丽金属与emo\n提前巡回ing......",
+        "id": "2073764220056059904",
+        "name": "Ta1z9 4.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073765275468726272/rJcKIDWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 12,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Ta1zzy9",
+        "verified": false
+      }
+    ]
+  }
+}

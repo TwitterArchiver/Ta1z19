@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2067535526631297381",
+    "created_at": "2026-06-19T04:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T05:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067827582624800973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2066258402276417536",
+          "start": 0,
+          "username": "ae88vw"
+        },
+        {
+          "end": 21,
+          "id": "1910008101371273225",
+          "start": 8,
+          "username": "paopao152025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067827582624800973",
+    "in_reply_to_user_id": "2066258402276417536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067733386760983012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ae88vw @paopao152025 有的物质烫吸效果比较好罢了🥸溜🧊也一样🥸为啥不口服是有原因的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2067535526631297381",
+        "created_at": "2026-06-19T04:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067827582624800973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2066258402276417536",
+              "start": 0,
+              "username": "ae88vw"
+            },
+            {
+              "end": 21,
+              "id": "1910008101371273225",
+              "start": 8,
+              "username": "paopao152025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067827582624800973",
+        "in_reply_to_user_id": "2066258402276417536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067733386760983012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ae88vw @paopao152025 有的物质烫吸效果比较好罢了🥸溜🧊也一样🥸为啥不口服是有原因的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066258402276417536",
+        "conversation_id": "2067535526631297381",
+        "created_at": "2026-06-18T22:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067733386760983012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910008101371273225",
+              "start": 0,
+              "username": "paopao152025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067733386760983012",
+        "in_reply_to_user_id": "1910008101371273225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067535526631297381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopao152025 实际上很舒服 比💊效果好太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 49,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T20:37:07.000Z",
+        "description": "",
+        "id": "2066258402276417536",
+        "name": "Distance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067676544152358912/mr6HC8Yn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 38,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "ae88vw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "第一世@keeganlike 第二世@paonew26\n小号@haoxiangsiaaaa 我很温良 大号随时都会被封 会自言自语抛出一些疑问和思考 本质没有恶意🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "keeganlike"
+              },
+              {
+                "end": 27,
+                "start": 18,
+                "username": "paonew26"
+              },
+              {
+                "end": 45,
+                "start": 30,
+                "username": "haoxiangsiaaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%A1%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%A1%E6%B3%A133527",
+                "start": 0,
+                "url": "https://t.co/J2oUGc5Ac0"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "location": "没🚪",
+        "name": "泡泡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5705,
+          "following_count": 163,
+          "like_count": 4977,
+          "listed_count": 2,
+          "media_count": 281,
+          "tweet_count": 2486
+        },
+        "url": "https://t.co/J2oUGc5Ac0",
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

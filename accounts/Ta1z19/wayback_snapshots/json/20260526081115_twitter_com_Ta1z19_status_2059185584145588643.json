@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2058933012163969363",
+    "created_at": "2026-05-26T08:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059185584145588643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056637203338633216",
+          "start": 0,
+          "username": "Misaki348632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059185584145588643",
+    "in_reply_to_user_id": "2056637203338633216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058933012163969363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaki348632 你陷入时间循环了 如果这个时候心境不稳将会很痛苦 一直循环放大焦虑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058932984435363840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLMpAGa0AAFhzn.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2058933012163969363",
+        "created_at": "2026-05-26T08:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059185584145588643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056637203338633216",
+              "start": 0,
+              "username": "Misaki348632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059185584145588643",
+        "in_reply_to_user_id": "2056637203338633216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058933012163969363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaki348632 你陷入时间循环了 如果这个时候心境不稳将会很痛苦 一直循环放大焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058932984435363840"
+          ]
+        },
+        "author_id": "2056637203338633216",
+        "conversation_id": "2058933012163969363",
+        "created_at": "2026-05-25T15:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058933012163969363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KU76okNVx9",
+              "end": 31,
+              "expanded_url": "https://x.com/Misaki348632/status/2058933012163969363/photo/1",
+              "media_key": "3_2058932984435363840",
+              "start": 8,
+              "url": "https://t.co/KU76okNVx9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058933012163969363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 158,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蘑菇其实很好玩 https://t.co/KU76okNVx9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n被小人以施奸计被迫转世\n双相 现在已经不自伤了！很棒！\n药理学爱好者/化学爱好者/种植学爱好者/药物相关问题免费回答",
+        "id": "2058988352054218752",
+        "name": "Ta1z9（第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T07:25:47.000Z",
+        "description": "是🐟，心情暴躁中",
+        "id": "2056637203338633216",
+        "name": "見崎",
+        "pinned_tweet_id": "2056850922190635473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637654117261312/qcJn_bJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 83,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 66
+        },
+        "username": "Misaki348632",
+        "verified": false
+      }
+    ]
+  }
+}

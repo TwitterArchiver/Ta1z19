@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072670272285777920"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2072670341026267391",
+    "created_at": "2026-07-02T13:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072670341026267391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TvUNxb8fwU",
+          "end": 25,
+          "expanded_url": "https://x.com/Ta1z19/status/2072670341026267391/video/1",
+          "media_key": "13_2072670272285777920",
+          "start": 2,
+          "url": "https://t.co/TvUNxb8fwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072670341026267391",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🐍 https://t.co/TvUNxb8fwU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19626,
+        "height": 720,
+        "media_key": "13_2072670272285777920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072670272285777920/img/EYgYF56QwxZueqcm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072670272285777920/vid/avc1/382x270/QBId8Nq3j8KKgOXc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072670272285777920/vid/avc1/510x360/me1SoRz_OPPJzMNo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072670272285777920/vid/avc1/1022x720/ErOyCPMcNNnympsa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072670272285777920/pl/m1-JfOf4egxcZyzM.m3u8"
+          }
+        ],
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072670272285777920"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2072670341026267391",
+        "created_at": "2026-07-02T13:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072670341026267391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TvUNxb8fwU",
+              "end": 25,
+              "expanded_url": "https://x.com/Ta1z19/status/2072670341026267391/video/1",
+              "media_key": "13_2072670272285777920",
+              "start": 2,
+              "url": "https://t.co/TvUNxb8fwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072670341026267391",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐍 https://t.co/TvUNxb8fwU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 62,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 805
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

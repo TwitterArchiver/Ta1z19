@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066437377091055617"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2066437388075925867",
+    "created_at": "2026-06-15T08:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066437388075925867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/omlFIEgTOI",
+          "end": 70,
+          "expanded_url": "https://x.com/Ta1z19/status/2066437388075925867/photo/1",
+          "media_key": "3_2066437377091055617",
+          "start": 47,
+          "url": "https://t.co/omlFIEgTOI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066437388075925867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我让电子瓦对比左吗啡烷和IC-26和Oxy它给我来个（神！🥸）注：实验需求合理用药 Ai参考 https://t.co/omlFIEgTOI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_2066437377091055617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK112JQaMAEJdGx.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066437377091055617"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2066437388075925867",
+        "created_at": "2026-06-15T08:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066437388075925867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omlFIEgTOI",
+              "end": 70,
+              "expanded_url": "https://x.com/Ta1z19/status/2066437388075925867/photo/1",
+              "media_key": "3_2066437377091055617",
+              "start": 47,
+              "url": "https://t.co/omlFIEgTOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066437388075925867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我让电子瓦对比左吗啡烷和IC-26和Oxy它给我来个（神！🥸）注：实验需求合理用药 Ai参考 https://t.co/omlFIEgTOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n🎵🎸与贝斯手 迷幻掌控者 油灯管信徒 💉信徒\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "太子喵（第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 43,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

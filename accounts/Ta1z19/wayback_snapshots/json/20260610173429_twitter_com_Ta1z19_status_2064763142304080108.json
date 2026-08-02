@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2064689235865858432",
+    "created_at": "2026-06-10T17:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064763142304080108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1991066716085030912",
+          "start": 0,
+          "username": "Rfy1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064763142304080108",
+    "in_reply_to_user_id": "1991066716085030912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064762493788975520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rfy1017 自己提取的 简单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2064689235865858432",
+        "created_at": "2026-06-10T17:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064763142304080108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1991066716085030912",
+              "start": 0,
+              "username": "Rfy1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064763142304080108",
+        "in_reply_to_user_id": "1991066716085030912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064762493788975520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rfy1017 自己提取的 简单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991066716085030912",
+        "conversation_id": "2064689235865858432",
+        "created_at": "2026-06-10T17:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064762493788975520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064762493788975520",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064689235865858432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 啊哪里搞的dmt我也想要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n🎵🎸与贝斯手 漂移\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（已老实第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 37,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T08:51:25.000Z",
+        "description": "本人男 0.5 双相adhd 铁血kpop人 偶尔od 关注我的主页有od属性会主动回的",
+        "id": "1991066716085030912",
+        "name": "Heeseo.R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036413497047916548/4XE_ZRTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 46,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "username": "Rfy1017",
+        "verified": false
+      }
+    ]
+  }
+}

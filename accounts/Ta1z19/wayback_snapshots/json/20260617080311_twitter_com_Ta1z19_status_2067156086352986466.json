@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067156065507291136"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067156086352986466",
+    "created_at": "2026-06-17T08:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067156086352986466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e2ECR19ROd",
+          "end": 39,
+          "expanded_url": "https://x.com/Ta1z19/status/2067156086352986466/photo/1",
+          "media_key": "3_2067156065507291136",
+          "start": 16,
+          "url": "https://t.co/e2ECR19ROd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067156086352986466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "电子瓦最近叛逆好好调教一下他🥵 https://t.co/e2ECR19ROd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1805,
+        "media_key": "3_2067156065507291136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLADfUPbMAA9noI.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067156065507291136"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067156086352986466",
+        "created_at": "2026-06-17T08:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067156086352986466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2ECR19ROd",
+              "end": 39,
+              "expanded_url": "https://x.com/Ta1z19/status/2067156086352986466/photo/1",
+              "media_key": "3_2067156065507291136",
+              "start": 16,
+              "url": "https://t.co/e2ECR19ROd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067156086352986466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电子瓦最近叛逆好好调教一下他🥵 https://t.co/e2ECR19ROd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒正常合理用药 我只是个病人。药理学爱好者/化学爱好者/种植爱好者/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz喵3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 47,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

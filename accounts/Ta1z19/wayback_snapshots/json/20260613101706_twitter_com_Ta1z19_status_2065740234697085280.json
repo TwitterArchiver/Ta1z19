@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2065740234697085280",
+    "created_at": "2026-06-13T10:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065740234697085280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko0202002/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/neko0202002/status/2065351177248874919",
+          "start": 12,
+          "url": "https://t.co/YGX3K5jU8L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065740234697085280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065351177248874919",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "减少人口也是件好事对吧 https://t.co/YGX3K5jU8L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2065351151109931008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmZ7eJaAAAS57c.jpg",
+        "width": 1080
+      },
+      {
+        "height": 944,
+        "media_key": "3_2065351161327280128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmZ8ENaYAA7DzJ.jpg",
+        "width": 944
+      },
+      {
+        "height": 1272,
+        "media_key": "3_2065351169363599360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmZ8iJa4AAEiSX.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2065740234697085280",
+        "created_at": "2026-06-13T10:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065740234697085280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko0202002/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/neko0202002/status/2065351177248874919",
+              "start": 12,
+              "url": "https://t.co/YGX3K5jU8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065740234697085280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065351177248874919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "减少人口也是件好事对吧 https://t.co/YGX3K5jU8L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065351151109931008",
+            "3_2065351161327280128",
+            "3_2065351169363599360"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2065351177248874919",
+        "created_at": "2026-06-12T08:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065351177248874919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OrjnJmV5Js",
+              "end": 107,
+              "expanded_url": "https://x.com/neko0202002/status/2065351177248874919/photo/1",
+              "media_key": "3_2065351151109931008",
+              "start": 84,
+              "url": "https://t.co/OrjnJmV5Js"
+            },
+            {
+              "display_url": "pic.x.com/OrjnJmV5Js",
+              "end": 107,
+              "expanded_url": "https://x.com/neko0202002/status/2065351177248874919/photo/1",
+              "media_key": "3_2065351161327280128",
+              "start": 84,
+              "url": "https://t.co/OrjnJmV5Js"
+            },
+            {
+              "display_url": "pic.x.com/OrjnJmV5Js",
+              "end": 107,
+              "expanded_url": "https://x.com/neko0202002/status/2065351177248874919/photo/1",
+              "media_key": "3_2065351169363599360",
+              "start": 84,
+              "url": "https://t.co/OrjnJmV5Js"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065351177248874919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8455,
+          "like_count": 145,
+          "quote_count": 8,
+          "reply_count": 28,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "墙外：感康复方烷胺狗都不吃\n墙内：吃了感康看见了想见的人\n墙外：研究药理学副作用\n墙内：一群人得出了感康震撼美味\n墙外：碘伏不是消毒的吗\n墙内：和感康一起吃美味又开胃 https://t.co/OrjnJmV5Js"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n🎵🎸与贝斯手 迷幻掌控者 油灯管信徒 💉信徒\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 40,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 770,
+          "like_count": 1847,
+          "listed_count": 2,
+          "media_count": 1783,
+          "tweet_count": 4780
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070195764312371200",
+        "3_2070195764308168704"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2070195773258846475",
+    "created_at": "2026-06-25T17:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070195773258846475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y3O2syo87p",
+          "end": 129,
+          "expanded_url": "https://x.com/Ta1z19/status/2070195773258846475/photo/1",
+          "media_key": "3_2070195764312371200",
+          "start": 106,
+          "url": "https://t.co/Y3O2syo87p"
+        },
+        {
+          "display_url": "pic.x.com/Y3O2syo87p",
+          "end": 129,
+          "expanded_url": "https://x.com/Ta1z19/status/2070195773258846475/photo/1",
+          "media_key": "3_2070195764308168704",
+          "start": 106,
+          "url": "https://t.co/Y3O2syo87p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070195773258846475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "羟考酮也叫奥施康定 是有美国普渡制药公司研发的一种强效止痛药。但经过美国阿片危机之后普渡制药已然成为一具空壳，但在亚洲普渡的名字叫做萌蒂制药 原研奥施康定在亚洲都是由萌蒂制药制作，感兴趣可以看一下奥施康定的由来 https://t.co/Y3O2syo87p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_2070195764312371200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrQFEtbcAAwc5Z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1524,
+        "media_key": "3_2070195764308168704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrQFEsbUAA46Ab.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070195764312371200",
+            "3_2070195764308168704"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2070195773258846475",
+        "created_at": "2026-06-25T17:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070195773258846475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3O2syo87p",
+              "end": 129,
+              "expanded_url": "https://x.com/Ta1z19/status/2070195773258846475/photo/1",
+              "media_key": "3_2070195764312371200",
+              "start": 106,
+              "url": "https://t.co/Y3O2syo87p"
+            },
+            {
+              "display_url": "pic.x.com/Y3O2syo87p",
+              "end": 129,
+              "expanded_url": "https://x.com/Ta1z19/status/2070195773258846475/photo/1",
+              "media_key": "3_2070195764308168704",
+              "start": 106,
+              "url": "https://t.co/Y3O2syo87p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070195773258846475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "羟考酮也叫奥施康定 是有美国普渡制药公司研发的一种强效止痛药。但经过美国阿片危机之后普渡制药已然成为一具空壳，但在亚洲普渡的名字叫做萌蒂制药 原研奥施康定在亚洲都是由萌蒂制药制作，感兴趣可以看一下奥施康定的由来 https://t.co/Y3O2syo87p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 西点师 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 57,
+          "like_count": 1174,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 578
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

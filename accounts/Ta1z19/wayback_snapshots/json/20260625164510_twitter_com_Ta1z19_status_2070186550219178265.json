@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070186539444039680"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2070186550219178265",
+    "created_at": "2026-06-25T16:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070186550219178265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ciztxdGdHo",
+          "end": 37,
+          "expanded_url": "https://x.com/Ta1z19/status/2070186550219178265/photo/1",
+          "media_key": "3_2070186539444039680",
+          "start": 14,
+          "url": "https://t.co/ciztxdGdHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070186550219178265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "保持瞳孔针尖样👁️👁️👁️ https://t.co/ciztxdGdHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070186539444039680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrHsHZbcAASKEr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070186539444039680"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2070186550219178265",
+        "created_at": "2026-06-25T16:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070186550219178265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ciztxdGdHo",
+              "end": 37,
+              "expanded_url": "https://x.com/Ta1z19/status/2070186550219178265/photo/1",
+              "media_key": "3_2070186539444039680",
+              "start": 14,
+              "url": "https://t.co/ciztxdGdHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070186550219178265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "保持瞳孔针尖样👁️👁️👁️ https://t.co/ciztxdGdHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 西点师 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 57,
+          "like_count": 1170,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 577
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

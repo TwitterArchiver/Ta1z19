@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2070195773258846475",
+    "created_at": "2026-06-26T08:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070428125742424384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1076749539208380416",
+          "start": 0,
+          "username": "BernieWarren20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070428125742424384",
+    "in_reply_to_user_id": "1076749539208380416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070427137769922702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BernieWarren20 说明书上写了禁止碾碎磨碎，这不纯纯就是使用方式吗🤓✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2070195773258846475",
+        "created_at": "2026-06-26T08:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070428125742424384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1076749539208380416",
+              "start": 0,
+              "username": "BernieWarren20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070428125742424384",
+        "in_reply_to_user_id": "1076749539208380416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070427137769922702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BernieWarren20 说明书上写了禁止碾碎磨碎，这不纯纯就是使用方式吗🤓✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076749539208380416",
+        "conversation_id": "2070195773258846475",
+        "created_at": "2026-06-26T08:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070427137769922702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070427137769922702",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070195773258846475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 谁能忍住不磨碎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo@正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 55,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-23T08:01:09.000Z",
+        "description": "想要互fo🥺/扩列QQ1286057946/he/they/ADHD/ASD/ODer/mental disorder/🏳️‍🌈/mtx🏳️‍⚧️/Furry/ボカロ/social democrat/in Tokyo/Shenyang/中国語⭕ 日本語⭕ English⭕/🔞里@WarrenUra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 139,
+                "username": "WarrenUra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KleeWarren",
+                "end": 23,
+                "expanded_url": "http://t.me/KleeWarren",
+                "start": 0,
+                "url": "https://t.co/PwJfvWNrCy"
+              }
+            ]
+          }
+        },
+        "id": "1076749539208380416",
+        "location": "Tokyo-to, Japan",
+        "name": "Warren伦",
+        "pinned_tweet_id": "1874701225805177312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835956000408707072/zV2U4ysb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 1669,
+          "like_count": 2953,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 1376
+        },
+        "url": "https://t.co/PwJfvWNrCy",
+        "username": "BernieWarren20",
+        "verified": false
+      }
+    ]
+  }
+}

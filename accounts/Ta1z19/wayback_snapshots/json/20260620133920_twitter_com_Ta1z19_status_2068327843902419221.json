@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068233576550924623",
+    "created_at": "2026-06-20T13:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068327843902419221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011051704440274947",
+          "start": 0,
+          "username": "luminescence_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068327843902419221",
+    "in_reply_to_user_id": "2011051704440274947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068233576550924623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luminescence_0 其实两个月就该换弦了 我一个半月一换 一套EB五十块消耗品有条件就换！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068233561233338368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPXd0nasAAnr7V.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068233576550924623",
+        "created_at": "2026-06-20T13:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068327843902419221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011051704440274947",
+              "start": 0,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068327843902419221",
+        "in_reply_to_user_id": "2011051704440274947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068233576550924623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luminescence_0 其实两个月就该换弦了 我一个半月一换 一套EB五十块消耗品有条件就换！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068233561233338368"
+          ]
+        },
+        "author_id": "2011051704440274947",
+        "conversation_id": "2068233576550924623",
+        "created_at": "2026-06-20T07:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068233576550924623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08B1injLF7",
+              "end": 42,
+              "expanded_url": "https://x.com/luminescence_0/status/2068233576550924623/photo/1",
+              "media_key": "3_2068233561233338368",
+              "start": 19,
+              "url": "https://t.co/08B1injLF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068233576550924623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 584,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦不 才换了两个月的新弦怎么就这样了 https://t.co/08B1injLF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 53,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "PROUD to be us | Agender 🖤🩶🤍💚 \n一个孤独的醋坛子 | 电吉他手 | 调酒爱好者\nflexitarian | 文科生 | 选择性回fo | 欢迎私信扩列",
+        "id": "2011051704440274947",
+        "location": "武汉",
+        "name": "Luminescence💚",
+        "pinned_tweet_id": "2067622141097586957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067997695630004224/aWWazFMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 420,
+          "like_count": 1529,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "luminescence_0",
+        "verified": false
+      }
+    ]
+  }
+}

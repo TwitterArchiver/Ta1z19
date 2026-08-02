@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2064738410116583639",
+    "created_at": "2026-06-11T01:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T02:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064889737337561290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042287223090159617",
+          "start": 0,
+          "username": "Galiyk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064889737337561290",
+    "in_reply_to_user_id": "2042287223090159617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064738410116583639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Galiyk2 垃圾兽药 拒绝❌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064738403590238208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdso3wacAAEfuc.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2064738410116583639",
+        "created_at": "2026-06-11T01:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064889737337561290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042287223090159617",
+              "start": 0,
+              "username": "Galiyk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064889737337561290",
+        "in_reply_to_user_id": "2042287223090159617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064738410116583639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Galiyk2 垃圾兽药 拒绝❌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064738403590238208"
+          ]
+        },
+        "author_id": "2042287223090159617",
+        "conversation_id": "2064738410116583639",
+        "created_at": "2026-06-10T15:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064738410116583639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVEotdV6lu",
+              "end": 27,
+              "expanded_url": "https://x.com/Galiyk2/status/2064738410116583639/photo/1",
+              "media_key": "3_2064738403590238208",
+              "start": 4,
+              "url": "https://t.co/hVEotdV6lu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064738410116583639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵 https://t.co/hVEotdV6lu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n🎵🎸与贝斯手 漂移\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（已老实第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 37,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T17:04:18.000Z",
+        "description": "52🚪好友位 188🚪解锁线下",
+        "id": "2042287223090159617",
+        "name": "咖喱🍛",
+        "pinned_tweet_id": "2044322490709955055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042393602563981314/ng3EdPjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 53,
+          "like_count": 78,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 160
+        },
+        "username": "Galiyk2",
+        "verified": false
+      }
+    ]
+  }
+}

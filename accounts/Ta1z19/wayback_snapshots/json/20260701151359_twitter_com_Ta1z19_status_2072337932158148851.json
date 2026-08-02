@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072337917226422272"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2072337932158148851",
+    "created_at": "2026-07-01T15:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072337932158148851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t0XuATQ4fD",
+          "end": 79,
+          "expanded_url": "https://x.com/Ta1z19/status/2072337932158148851/photo/1",
+          "media_key": "3_2072337917226422272",
+          "start": 56,
+          "url": "https://t.co/t0XuATQ4fD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072337932158148851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泡澡time……我并不认同🍃为诱导dp，只要接触一定会碰更强效物质这个观点。注：Ai提示 演艺道具 合理合法。 https://t.co/t0XuATQ4fD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1666,
+        "media_key": "3_2072337917226422272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJsWyLakAAEvVR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072337917226422272"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2072337932158148851",
+        "created_at": "2026-07-01T15:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072337932158148851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t0XuATQ4fD",
+              "end": 79,
+              "expanded_url": "https://x.com/Ta1z19/status/2072337932158148851/photo/1",
+              "media_key": "3_2072337917226422272",
+              "start": 56,
+              "url": "https://t.co/t0XuATQ4fD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072337932158148851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泡澡time……我并不认同🍃为诱导dp，只要接触一定会碰更强效物质这个观点。注：Ai提示 演艺道具 合理合法。 https://t.co/t0XuATQ4fD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 62,
+          "like_count": 1625,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 774
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

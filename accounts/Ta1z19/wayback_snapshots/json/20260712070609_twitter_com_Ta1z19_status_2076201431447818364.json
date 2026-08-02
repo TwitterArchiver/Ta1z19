@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2076201431447818364",
+    "created_at": "2026-07-12T07:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076201431447818364"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076201431447818364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我系度了？都怪朋克逼\n我自伤了？都怪朋克逼\n我没练琴？都怪朋克逼\n我堕落了？都怪朋克逼\n我跳楼了？都怪朋克逼\n我不小众了不独特了？\n都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2076201431447818364",
+        "created_at": "2026-07-12T07:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076201431447818364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076201431447818364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我系度了？都怪朋克逼\n我自伤了？都怪朋克逼\n我没练琴？都怪朋克逼\n我堕落了？都怪朋克逼\n我跳楼了？都怪朋克逼\n我不小众了不独特了？\n都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼都怪朋克逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 叫我太子。药理学爱好者/化学爱好者/eml与华丽金属/我只存在於我 睡在清醒梦",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 70,
+          "like_count": 1823,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 867
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

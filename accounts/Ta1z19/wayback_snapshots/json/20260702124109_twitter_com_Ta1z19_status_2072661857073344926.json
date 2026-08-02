@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072661847606693888"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072661857073344926",
+    "created_at": "2026-07-02T12:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072661857073344926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iAZBy4e5qO",
+          "end": 27,
+          "expanded_url": "https://x.com/Ta1z19/status/2072661857073344926/photo/1",
+          "media_key": "3_2072661847606693888",
+          "start": 4,
+          "url": "https://t.co/iAZBy4e5qO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072661857073344926",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豪赤！ https://t.co/iAZBy4e5qO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072661847606693888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOS-A4aEAAcNgP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072661847606693888"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072661857073344926",
+        "created_at": "2026-07-02T12:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072661857073344926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAZBy4e5qO",
+              "end": 27,
+              "expanded_url": "https://x.com/Ta1z19/status/2072661857073344926/photo/1",
+              "media_key": "3_2072661847606693888",
+              "start": 4,
+              "url": "https://t.co/iAZBy4e5qO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072661857073344926",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豪赤！ https://t.co/iAZBy4e5qO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 62,
+          "like_count": 1674,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 804
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

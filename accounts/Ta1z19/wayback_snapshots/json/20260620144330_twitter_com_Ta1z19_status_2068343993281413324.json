@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068343939233685504",
+        "3_2068343939175006208"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068260716306706663",
+    "created_at": "2026-06-20T14:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068343993281413324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1774278217253433344",
+          "start": 0,
+          "username": "7ksti4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e01bvgh8tF",
+          "end": 37,
+          "expanded_url": "https://x.com/Ta1z19/status/2068343993281413324/photo/1",
+          "media_key": "3_2068343939233685504",
+          "start": 14,
+          "url": "https://t.co/e01bvgh8tF"
+        },
+        {
+          "display_url": "pic.x.com/e01bvgh8tF",
+          "end": 37,
+          "expanded_url": "https://x.com/Ta1z19/status/2068343993281413324/photo/1",
+          "media_key": "3_2068343939175006208",
+          "start": 14,
+          "url": "https://t.co/e01bvgh8tF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068343993281413324",
+    "in_reply_to_user_id": "1774278217253433344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068260716306706663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7ksti4 俺的三兄弟 https://t.co/e01bvgh8tF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068343939233685504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ72qtbIAAv2h_.jpg",
+        "width": 1404
+      },
+      {
+        "height": 877,
+        "media_key": "3_2068343939175006208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ72qfbwAAGPNs.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2068260694068461568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPwJKTagAAeoLs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2068260694085263360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPwJKXa4AAdsTc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068343939233685504",
+            "3_2068343939175006208"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068260716306706663",
+        "created_at": "2026-06-20T14:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068343993281413324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e01bvgh8tF",
+              "end": 37,
+              "expanded_url": "https://x.com/Ta1z19/status/2068343993281413324/photo/1",
+              "media_key": "3_2068343939233685504",
+              "start": 14,
+              "url": "https://t.co/e01bvgh8tF"
+            },
+            {
+              "display_url": "pic.x.com/e01bvgh8tF",
+              "end": 37,
+              "expanded_url": "https://x.com/Ta1z19/status/2068343993281413324/photo/1",
+              "media_key": "3_2068343939175006208",
+              "start": 14,
+              "url": "https://t.co/e01bvgh8tF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068343993281413324",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068260716306706663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 俺的三兄弟 https://t.co/e01bvgh8tF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068260694068461568",
+            "3_2068260694085263360"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2068260716306706663",
+        "created_at": "2026-06-20T09:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068260716306706663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VxFhhiKvj2",
+              "end": 38,
+              "expanded_url": "https://x.com/7ksti4/status/2068260716306706663/photo/1",
+              "media_key": "3_2068260694068461568",
+              "start": 15,
+              "url": "https://t.co/VxFhhiKvj2"
+            },
+            {
+              "display_url": "pic.x.com/VxFhhiKvj2",
+              "end": 38,
+              "expanded_url": "https://x.com/7ksti4/status/2068260716306706663/photo/1",
+              "media_key": "3_2068260694085263360",
+              "start": 15,
+              "url": "https://t.co/VxFhhiKvj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068260716306706663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们猜一下我是什么手机😤、、 https://t.co/VxFhhiKvj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 52,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 406,
+          "like_count": 4310,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

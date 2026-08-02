@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2069865129769157087",
+    "created_at": "2026-06-24T20:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T21:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069886597307519227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1358061535340290048",
+          "start": 0,
+          "username": "Uni_btt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069886597307519227",
+    "in_reply_to_user_id": "1358061535340290048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069865129769157087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uni_btt 麻麻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069865119761510400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmjXBxbMAAUuwP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2069865129769157087",
+        "created_at": "2026-06-24T20:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T21:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069886597307519227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1358061535340290048",
+              "start": 0,
+              "username": "Uni_btt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069886597307519227",
+        "in_reply_to_user_id": "1358061535340290048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069865129769157087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uni_btt 麻麻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069865119761510400"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2069865129769157087",
+        "created_at": "2026-06-24T19:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069865129769157087"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "地下アイドル"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZfFs8P2ZD",
+              "end": 31,
+              "expanded_url": "https://x.com/Uni_btt/status/2069865129769157087/photo/1",
+              "media_key": "3_2069865119761510400",
+              "start": 8,
+              "url": "https://t.co/DZfFs8P2ZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069865129769157087",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地下アイドル https://t.co/DZfFs8P2ZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 西点师 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 56,
+          "like_count": 1153,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "地偶预备役/妈妈 @Kanakoyq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Kanakoyq"
+              }
+            ]
+          }
+        },
+        "id": "1358061535340290048",
+        "location": "垃圾堆",
+        "name": "🎀扁桃體🗑️😿momoko",
+        "pinned_tweet_id": "2067754861618495678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998865969494765570/Cqz1u5ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11029,
+          "following_count": 515,
+          "like_count": 11649,
+          "listed_count": 16,
+          "media_count": 1044,
+          "tweet_count": 10747
+        },
+        "url": "",
+        "username": "Uni_btt",
+        "verified": false
+      }
+    ]
+  }
+}

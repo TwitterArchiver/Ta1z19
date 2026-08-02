@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066166203002093568"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2066083430245548286",
+    "created_at": "2026-06-14T14:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066166210438545457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820207828931424256",
+          "start": 0,
+          "username": "neko0202002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0p3FrZFPbo",
+          "end": 36,
+          "expanded_url": "https://x.com/Ta1z19/status/2066166210438545457/photo/1",
+          "media_key": "3_2066166203002093568",
+          "start": 13,
+          "url": "https://t.co/0p3FrZFPbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066166210438545457",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066083430245548286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko0202002 https://t.co/0p3FrZFPbo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 251,
+        "media_key": "3_2066166203002093568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx_NvDbgAAxbSj.jpg",
+        "width": 570
+      },
+      {
+        "height": 513,
+        "media_key": "3_2066083427464728576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwz7kJbUAAHliI.jpg",
+        "width": 583
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066166203002093568"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2066083430245548286",
+        "created_at": "2026-06-14T14:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066166210438545457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0p3FrZFPbo",
+              "end": 36,
+              "expanded_url": "https://x.com/Ta1z19/status/2066166210438545457/photo/1",
+              "media_key": "3_2066166203002093568",
+              "start": 13,
+              "url": "https://t.co/0p3FrZFPbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066166210438545457",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066083430245548286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 https://t.co/0p3FrZFPbo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066083427464728576"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2066083430245548286",
+        "created_at": "2026-06-14T09:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066083430245548286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDqEkKcf2Q",
+              "end": 41,
+              "expanded_url": "https://x.com/neko0202002/status/2066083430245548286/photo/1",
+              "media_key": "3_2066083427464728576",
+              "start": 18,
+              "url": "https://t.co/gDqEkKcf2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066083430245548286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1315,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁还有阿片猫的图片吗？麻烦多来一点 https://t.co/gDqEkKcf2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n🎵🎸与贝斯手 迷幻掌控者 油灯管信徒 💉信徒\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 42,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 700,
+          "like_count": 1882,
+          "listed_count": 2,
+          "media_count": 1838,
+          "tweet_count": 4864
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

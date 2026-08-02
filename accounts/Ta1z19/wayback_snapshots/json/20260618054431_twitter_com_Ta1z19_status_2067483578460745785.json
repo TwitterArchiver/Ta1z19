@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2067471287833026779",
+    "created_at": "2026-06-18T05:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067483578460745785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1845414621458595845",
+          "start": 0,
+          "username": "qmmx144784"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067483578460745785",
+    "in_reply_to_user_id": "1845414621458595845",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067477425366470755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qmmx144784 我不是很喜欢社交新朋友 可以慢慢熟悉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2067471287833026779",
+        "created_at": "2026-06-18T05:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067483578460745785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1845414621458595845",
+              "start": 0,
+              "username": "qmmx144784"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067483578460745785",
+        "in_reply_to_user_id": "1845414621458595845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067477425366470755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qmmx144784 我不是很喜欢社交新朋友 可以慢慢熟悉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845414621458595845",
+        "conversation_id": "2067471287833026779",
+        "created_at": "2026-06-18T05:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067477425366470755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067477425366470755",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067471287833026779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 你好，这里是希希，是福瑞，很高兴认识你，Hi，我可以找你交朋友吗？[贴贴][贴贴][贴贴]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 43,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T10:41:55.000Z",
+        "description": "是一个喜欢小混混的小福瑞，喜欢交朋友，不喜欢聊着聊着就消失那种，现在目前还没有装，但是有手套",
+        "id": "1845414621458595845",
+        "location": "Hong Kong",
+        "name": "希希福瑞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024397958607998976/Cd2xGGVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 1436,
+          "like_count": 13510,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 310
+        },
+        "username": "qmmx144784",
+        "verified": false
+      }
+    ]
+  }
+}

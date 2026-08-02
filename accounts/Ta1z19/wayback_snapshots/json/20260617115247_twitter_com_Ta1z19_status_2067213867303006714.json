@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2067179918732267641",
+    "created_at": "2026-06-17T11:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067213867303006714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926470312289304576",
+          "start": 0,
+          "username": "raxx945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067213867303006714",
+    "in_reply_to_user_id": "1926470312289304576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067179918732267641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raxx945 把图一撇了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_2067179911216050176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAZLUbbMAA6dEj.jpg",
+        "width": 935
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067179911211823104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAZLUaasAAhi_G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2067179918732267641",
+        "created_at": "2026-06-17T11:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067213867303006714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926470312289304576",
+              "start": 0,
+              "username": "raxx945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067213867303006714",
+        "in_reply_to_user_id": "1926470312289304576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067179918732267641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raxx945 把图一撇了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067179911216050176",
+            "3_2067179911211823104"
+          ]
+        },
+        "author_id": "1926470312289304576",
+        "conversation_id": "2067179918732267641",
+        "created_at": "2026-06-17T09:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067179918732267641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSwnnDbdCC",
+              "end": 35,
+              "expanded_url": "https://x.com/raxx945/status/2067179918732267641/photo/1",
+              "media_key": "3_2067179911216050176",
+              "start": 12,
+              "url": "https://t.co/ZSwnnDbdCC"
+            },
+            {
+              "display_url": "pic.x.com/ZSwnnDbdCC",
+              "end": 35,
+              "expanded_url": "https://x.com/raxx945/status/2067179918732267641/photo/1",
+              "media_key": "3_2067179911211823104",
+              "start": 12,
+              "url": "https://t.co/ZSwnnDbdCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067179918732267641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还真被我整出绝版了😂😂 https://t.co/ZSwnnDbdCC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒 正常合理用药 我只是个病人。药理学爱好者/化学爱好者/种植爱好者/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz喵3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 47,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T02:48:17.000Z",
+        "description": "404notfound｜Eng /中文",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/esinenard?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/esinenard?igsh=NzNnZ3h2MTBuY2R5&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8Oq3QcqJyS"
+              }
+            ]
+          }
+        },
+        "id": "1926470312289304576",
+        "location": "🚪88/520",
+        "name": "esinenard",
+        "pinned_tweet_id": "2026510355250217084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045175559257530368/SrZQdhgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3140,
+          "following_count": 90,
+          "like_count": 1192,
+          "listed_count": 6,
+          "media_count": 170,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/8Oq3QcqJyS",
+        "username": "raxx945",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067141608311803904",
+        "3_2067141608336998400"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2067141615991545969",
+    "created_at": "2026-06-17T07:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067141615991545969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A0t78GUnLN",
+          "end": 32,
+          "expanded_url": "https://x.com/Ta1z19/status/2067141615991545969/photo/1",
+          "media_key": "3_2067141608311803904",
+          "start": 9,
+          "url": "https://t.co/A0t78GUnLN"
+        },
+        {
+          "display_url": "pic.x.com/A0t78GUnLN",
+          "end": 32,
+          "expanded_url": "https://x.com/Ta1z19/status/2067141615991545969/photo/1",
+          "media_key": "3_2067141608336998400",
+          "start": 9,
+          "url": "https://t.co/A0t78GUnLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067141615991545969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于把替来禁了！ https://t.co/A0t78GUnLN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_2067141608311803904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_2Vy_a0AAvGun.jpg",
+        "width": 1199
+      },
+      {
+        "height": 1698,
+        "media_key": "3_2067141608336998400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_2VzFbQAApRiG.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067141608311803904",
+            "3_2067141608336998400"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2067141615991545969",
+        "created_at": "2026-06-17T07:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067141615991545969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0t78GUnLN",
+              "end": 32,
+              "expanded_url": "https://x.com/Ta1z19/status/2067141615991545969/photo/1",
+              "media_key": "3_2067141608311803904",
+              "start": 9,
+              "url": "https://t.co/A0t78GUnLN"
+            },
+            {
+              "display_url": "pic.x.com/A0t78GUnLN",
+              "end": 32,
+              "expanded_url": "https://x.com/Ta1z19/status/2067141615991545969/photo/1",
+              "media_key": "3_2067141608336998400",
+              "start": 9,
+              "url": "https://t.co/A0t78GUnLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067141615991545969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于把替来禁了！ https://t.co/A0t78GUnLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒正常合理用药 我只是个病人。药理学爱好者/化学爱好者/种植爱好者/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz喵3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 48,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

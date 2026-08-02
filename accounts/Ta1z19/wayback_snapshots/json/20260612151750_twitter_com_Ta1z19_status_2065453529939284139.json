@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2065453529939284139",
+    "created_at": "2026-06-12T15:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065453529939284139"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065453529939284139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药效强度\n  ↑\n  |     羟考酮 13mg IM\n  |    /\\\n  |   /  \\   吗啡 15mg IM\n  |  /    \\  /\\\n  | /      \\/  \\\n  |/________\\____\\__→ 时间(h)\n  0  1   2   3   4   5   6\n为什么喜欢oxy 因为它具有比芬太尼和吗啡更强的欣快感比吗啡更少的瘙痒感 并且没有芬太尼那么脏 My love！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2065453529939284139",
+        "created_at": "2026-06-12T15:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065453529939284139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065453529939284139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药效强度\n  ↑\n  |     羟考酮 13mg IM\n  |    /\\\n  |   /  \\   吗啡 15mg IM\n  |  /    \\  /\\\n  | /      \\/  \\\n  |/________\\____\\__→ 时间(h)\n  0  1   2   3   4   5   6\n为什么喜欢oxy 因为它具有比芬太尼和吗啡更强的欣快感比吗啡更少的瘙痒感 并且没有芬太尼那么脏 My love！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n🎵🎸与贝斯手 漂移\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 38,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

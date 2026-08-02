@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2075612966133838030",
+    "created_at": "2026-07-10T19:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T20:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075664956788548087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1961080629468028928",
+          "start": 0,
+          "username": "qikieye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075664956788548087",
+    "in_reply_to_user_id": "1961080629468028928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075614780061262305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikieye 哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2075612966133838030",
+        "created_at": "2026-07-10T19:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075664956788548087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1961080629468028928",
+              "start": 0,
+              "username": "qikieye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075664956788548087",
+        "in_reply_to_user_id": "1961080629468028928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075614780061262305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikieye 哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961080629468028928",
+        "conversation_id": "2075612966133838030",
+        "created_at": "2026-07-10T16:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075614780061262305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075614780061262305",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075612966133838030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 固态去碳甲醛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我 睡在清醒梦",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 70,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 861
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T14:57:28.000Z",
+        "description": "This is qiki . Pleas enjoy your life ! Nothing is impossible.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "http://jile.bid",
+                "start": 0,
+                "url": "https://t.co/bxJD99X3Ph"
+              }
+            ]
+          }
+        },
+        "id": "1961080629468028928",
+        "name": "qiki💊（rebirth）",
+        "pinned_tweet_id": "2008562527681343928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013687970067267584/mPU39IrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 271,
+          "like_count": 221,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/bxJD99X3Ph",
+        "username": "qikieye",
+        "verified": false
+      }
+    ]
+  }
+}

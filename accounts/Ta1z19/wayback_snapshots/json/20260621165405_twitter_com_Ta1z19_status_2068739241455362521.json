@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068708922354270486",
+    "created_at": "2026-06-21T16:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068739241455362521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2067413929475903488",
+          "start": 0,
+          "username": "cheni52dxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068739241455362521",
+    "in_reply_to_user_id": "2067413929475903488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068723554443825353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheni52dxp 你玩过的阿片我全有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068708922354270486",
+        "created_at": "2026-06-21T16:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068739241455362521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067413929475903488",
+              "start": 0,
+              "username": "cheni52dxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068739241455362521",
+        "in_reply_to_user_id": "2067413929475903488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068723554443825353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheni52dxp 你玩过的阿片我全有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067413929475903488",
+        "conversation_id": "2068708922354270486",
+        "created_at": "2026-06-21T15:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068723554443825353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068723554443825353",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068708922354270486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 要不要阿片类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 56,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 521
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T01:08:44.000Z",
+        "description": "https://t.co/hF5Z5S6bDC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+ONcBeE9nh0ZhN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ONcBeE9nh0ZhNWVk",
+                "start": 0,
+                "url": "https://t.co/hF5Z5S6bDC"
+              }
+            ]
+          }
+        },
+        "id": "2067413929475903488",
+        "name": "阿片神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067416366081347585/INZrrwde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 42,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "cheni52dxp",
+        "verified": false
+      }
+    ]
+  }
+}

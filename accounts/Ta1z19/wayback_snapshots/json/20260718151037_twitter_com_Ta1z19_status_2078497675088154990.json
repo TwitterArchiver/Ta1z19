@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078497666141761536"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2078497675088154990",
+    "created_at": "2026-07-18T15:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078497675088154990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P1wL9YHDb5",
+          "end": 26,
+          "expanded_url": "https://x.com/Ta1z19/status/2078497675088154990/photo/1",
+          "media_key": "3_2078497666141761536",
+          "start": 3,
+          "url": "https://t.co/P1wL9YHDb5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078497675088154990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "酮体 https://t.co/P1wL9YHDb5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078497666141761536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhOnXDbsAAw4mI.jpg",
+        "width": 1802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078497666141761536"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2078497675088154990",
+        "created_at": "2026-07-18T15:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078497675088154990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1wL9YHDb5",
+              "end": 26,
+              "expanded_url": "https://x.com/Ta1z19/status/2078497675088154990/photo/1",
+              "media_key": "3_2078497666141761536",
+              "start": 3,
+              "url": "https://t.co/P1wL9YHDb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078497675088154990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酮体 https://t.co/P1wL9YHDb5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 叫我太子。emo与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 72,
+          "like_count": 1846,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058993123641241600"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2058993131249639658",
+    "created_at": "2026-05-25T19:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T20:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058993131249639658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nyPF4kizcn",
+          "end": 168,
+          "expanded_url": "https://x.com/Ta1z19/status/2058993131249639658/photo/1",
+          "media_key": "3_2058993123641241600",
+          "start": 145,
+          "url": "https://t.co/nyPF4kizcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058993131249639658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "互关巡回呜呜呜 1.借用阿片喵的话表达一下相同观点 2.我本人在这里看不上你 成分不公开就是错 大家都不知道自己在吃什么 你灌点敌敌畏就是在害死别人你有罪 你做wiki为了引流盈利你有罪 虚假宣传过检测不过检其实只是买RC装进胶囊里进行盈利你罪加一等 太子在对你处以九生九世不得轮回之酷刑 https://t.co/nyPF4kizcn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_2058993123641241600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMDVkGbsAAaIOc.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058993123641241600"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2058993131249639658",
+        "created_at": "2026-05-25T19:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T20:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058993131249639658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyPF4kizcn",
+              "end": 168,
+              "expanded_url": "https://x.com/Ta1z19/status/2058993131249639658/photo/1",
+              "media_key": "3_2058993123641241600",
+              "start": 145,
+              "url": "https://t.co/nyPF4kizcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058993131249639658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关巡回呜呜呜 1.借用阿片喵的话表达一下相同观点 2.我本人在这里看不上你 成分不公开就是错 大家都不知道自己在吃什么 你灌点敌敌畏就是在害死别人你有罪 你做wiki为了引流盈利你有罪 虚假宣传过检测不过检其实只是买RC装进胶囊里进行盈利你罪加一等 太子在对你处以九生九世不得轮回之酷刑 https://t.co/nyPF4kizcn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n现在已经不自伤了！很棒！",
+        "id": "2058988352054218752",
+        "name": "Ta1z9（第三世）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

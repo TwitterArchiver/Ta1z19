@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2060623920118845933",
+    "created_at": "2026-06-01T10:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061388556573233222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1834129912061411328",
+          "start": 0,
+          "username": "biqun42094"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061388556573233222",
+    "in_reply_to_user_id": "1834129912061411328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061383256554328532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biqun42094 啊？为什么要过滤 这是在烫吸啦已经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2060623920118845933",
+        "created_at": "2026-06-01T10:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061388556573233222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1834129912061411328",
+              "start": 0,
+              "username": "biqun42094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061388556573233222",
+        "in_reply_to_user_id": "1834129912061411328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061383256554328532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biqun42094 啊？为什么要过滤 这是在烫吸啦已经"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834129912061411328",
+        "conversation_id": "2060623920118845933",
+        "created_at": "2026-06-01T09:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061383256554328532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061383256554328532",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060623920118845933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 不过滤吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n被小人以施奸计被迫转世\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（已老实第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 24,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T07:20:31.000Z",
+        "description": "",
+        "id": "1834129912061411328",
+        "location": "乌托邦",
+        "name": "Tell me",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059733347069489152/SoRFhriL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 55,
+          "like_count": 883,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 390
+        },
+        "username": "biqun42094",
+        "verified": false
+      }
+    ]
+  }
+}

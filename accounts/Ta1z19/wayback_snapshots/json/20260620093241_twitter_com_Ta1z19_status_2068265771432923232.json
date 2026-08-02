@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2067906497582096575",
+    "created_at": "2026-06-20T09:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068265771432923232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067890605670518784",
+          "start": 0,
+          "username": "Chrnqklak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068265771432923232",
+    "in_reply_to_user_id": "2067890605670518784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068245309344633328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chrnqklak 戒掉我痛得要死咋办 弱止痛药全部耐受可待因 曲马多全不止痛 只有强阿片能止痛 吗啡 oxy 芬太尼 。我有啥招"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2067906497582096575",
+        "created_at": "2026-06-20T09:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068265771432923232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067890605670518784",
+              "start": 0,
+              "username": "Chrnqklak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068265771432923232",
+        "in_reply_to_user_id": "2067890605670518784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068245309344633328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chrnqklak 戒掉我痛得要死咋办 弱止痛药全部耐受可待因 曲马多全不止痛 只有强阿片能止痛 吗啡 oxy 芬太尼 。我有啥招"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067890605670518784",
+        "conversation_id": "2067906497582096575",
+        "created_at": "2026-06-20T08:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068245309344633328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068245309344633328",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068225041565991187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 现在开始戒掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 53,
+          "like_count": 752,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T08:42:46.000Z",
+        "description": "有机化学爱好者/\n\nhttps://t.co/OE1NrppKMc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 33,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 10,
+                "url": "https://t.co/OE1NrppKMc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 23,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 0,
+                "url": "https://t.co/OE1NrppKMc"
+              }
+            ]
+          }
+        },
+        "id": "2067890605670518784",
+        "location": "哈尔滨",
+        "name": "戒掉4-ho-met回归正常-永久抵制阿片类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067891161940058112/ZWrrnrd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 169,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/OE1NrppKMc",
+        "username": "Chrnqklak",
+        "verified": false
+      }
+    ]
+  }
+}

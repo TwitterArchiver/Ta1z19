@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2065137029219069982",
+    "created_at": "2026-06-11T18:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065137029219069982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/2064938591864959143",
+          "start": 9,
+          "url": "https://t.co/sZAvMlbJr8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065137029219069982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064938591864959143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "电子瓦子确实好用 https://t.co/sZAvMlbJr8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2065137029219069982",
+        "created_at": "2026-06-11T18:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065137029219069982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2064938591864959143",
+              "start": 9,
+              "url": "https://t.co/sZAvMlbJr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065137029219069982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064938591864959143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "电子瓦子确实好用 https://t.co/sZAvMlbJr8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2064938591864959143",
+        "created_at": "2026-06-11T05:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064938591864959143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064938591864959143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "用ai学od知识的如果不用一次永远不懂电子瓦楞斯数据库的含金量和区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n🎵🎸与贝斯手 漂移\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（已老实第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 38,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 330,
+          "like_count": 1133,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2622
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071940826184159232"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2071940837752307806",
+    "created_at": "2026-06-30T12:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071940837752307806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UxrVh7xd1s",
+          "end": 79,
+          "expanded_url": "https://x.com/Ta1z19/status/2071940837752307806/photo/1",
+          "media_key": "3_2071940826184159232",
+          "start": 56,
+          "url": "https://t.co/UxrVh7xd1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071940837752307806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "20mg oxy肌注+20mg oxy Insufflation+NO2助推 注：Ai提示 演艺道具 合法实验 https://t.co/UxrVh7xd1s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_2071940826184159232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEDNCxWEAAEGYW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071940826184159232"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2071940837752307806",
+        "created_at": "2026-06-30T12:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071940837752307806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxrVh7xd1s",
+              "end": 79,
+              "expanded_url": "https://x.com/Ta1z19/status/2071940837752307806/photo/1",
+              "media_key": "3_2071940826184159232",
+              "start": 56,
+              "url": "https://t.co/UxrVh7xd1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071940837752307806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20mg oxy肌注+20mg oxy Insufflation+NO2助推 注：Ai提示 演艺道具 合法实验 https://t.co/UxrVh7xd1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 67,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 758
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

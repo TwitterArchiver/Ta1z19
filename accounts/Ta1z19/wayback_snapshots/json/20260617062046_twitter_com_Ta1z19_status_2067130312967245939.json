@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066648321478074368"
+      ],
+      "media_source_tweet_id": [
+        "2066648343821074798"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2067130312967245939",
+    "created_at": "2026-06-17T06:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067130312967245939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058988352054218752",
+          "start": 3,
+          "username": "Ta1z19"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uXn5eeZHFj",
+          "end": 39,
+          "expanded_url": "https://x.com/Ta1z19/status/2066648343821074798/photo/1",
+          "media_key": "3_2066648321478074368",
+          "start": 16,
+          "url": "https://t.co/uXn5eeZHFj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067130312967245939",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066648343821074798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ta1z19: 蚀之刻 https://t.co/uXn5eeZHFj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067130312967245939].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067130312967245939",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067130312967245939"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_2066648321478074368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK41suVboAATP0O.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066648321478074368"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2066648343821074798",
+        "created_at": "2026-06-15T22:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T23:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066648343821074798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXn5eeZHFj",
+              "end": 27,
+              "expanded_url": "https://x.com/Ta1z19/status/2066648343821074798/photo/1",
+              "media_key": "3_2066648321478074368",
+              "start": 4,
+              "url": "https://t.co/uXn5eeZHFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066648343821074798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1467,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "蚀之刻 https://t.co/uXn5eeZHFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒正常合理用药 我只是个病人。药理学爱好者/化学爱好者/种植爱好者/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz喵3.0",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 48,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068670182034423808"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068670198400663560",
+    "created_at": "2026-06-21T12:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068670198400663560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/plUSl1u1Lw",
+          "end": 34,
+          "expanded_url": "https://x.com/Ta1z19/status/2068670198400663560/photo/1",
+          "media_key": "3_2068670182034423808",
+          "start": 11,
+          "url": "https://t.co/plUSl1u1Lw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068670198400663560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？？？青岛的福？？？ https://t.co/plUSl1u1Lw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068670182034423808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVkkf2awAAe48R.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068670182034423808"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068670198400663560",
+        "created_at": "2026-06-21T12:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068670198400663560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/plUSl1u1Lw",
+              "end": 34,
+              "expanded_url": "https://x.com/Ta1z19/status/2068670198400663560/photo/1",
+              "media_key": "3_2068670182034423808",
+              "start": 11,
+              "url": "https://t.co/plUSl1u1Lw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068670198400663560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？青岛的福？？？ https://t.co/plUSl1u1Lw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 56,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

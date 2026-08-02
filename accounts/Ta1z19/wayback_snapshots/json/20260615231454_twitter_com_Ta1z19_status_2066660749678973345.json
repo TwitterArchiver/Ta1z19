@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2058989881578369497",
+    "created_at": "2026-06-15T23:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066660749678973345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2053770011307868160",
+          "start": 0,
+          "username": "Tianjia95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066660749678973345",
+    "in_reply_to_user_id": "2053770011307868160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060315398382498219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tianjia95 有啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2058989881578369497",
+        "created_at": "2026-06-15T23:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066660749678973345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053770011307868160",
+              "start": 0,
+              "username": "Tianjia95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066660749678973345",
+        "in_reply_to_user_id": "2053770011307868160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060315398382498219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tianjia95 有啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053770011307868160",
+        "conversation_id": "2058989881578369497",
+        "created_at": "2026-05-29T11:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060315398382498219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060315398382498219",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058989881578369497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 你没组织个群吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度\n🎵🎸与bass手 迷幻掌控者 油灯管信徒 💉信徒\n药理学爱好者/化学爱好者/种植爱好者/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "太子喵3.0",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 45,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T09:32:05.000Z",
+        "description": "这里是👥散仙心理咨询师👥\n核心理念：没有体验就没有发言权。\n来这个世界的意义就是要体验各种可能性",
+        "id": "2053770011307868160",
+        "name": "DANILO DONNIE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065128061847384065/mA0u0NxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 62,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 83
+        },
+        "username": "Tianjia95",
+        "verified": false
+      }
+    ]
+  }
+}

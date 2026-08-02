@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2046181046375657510",
+    "created_at": "2026-06-20T09:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068271664497144158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044355126517727232",
+          "start": 0,
+          "username": "Overdose_HPD"
+        },
+        {
+          "end": 28,
+          "id": "2011873376445612032",
+          "start": 14,
+          "username": "MutsumiXiaomu"
+        },
+        {
+          "end": 42,
+          "id": "1866458229527764992",
+          "start": 29,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068271664497144158",
+    "in_reply_to_user_id": "2044355126517727232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046209065433665616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_HPD @MutsumiXiaomu @Citrus_amara 自己种就还好 买的话确实没有性价比👍国内农夫种的固化不好thc含量低 进口还贵一些 还是算了吧！"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [MutsumiXiaomu].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "MutsumiXiaomu",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "MutsumiXiaomu"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2046181046375657510",
+        "created_at": "2026-06-20T09:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068271664497144158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044355126517727232",
+              "start": 0,
+              "username": "Overdose_HPD"
+            },
+            {
+              "end": 28,
+              "id": "2011873376445612032",
+              "start": 14,
+              "username": "MutsumiXiaomu"
+            },
+            {
+              "end": 42,
+              "id": "1866458229527764992",
+              "start": 29,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068271664497144158",
+        "in_reply_to_user_id": "2044355126517727232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046209065433665616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_HPD @MutsumiXiaomu @Citrus_amara 自己种就还好 买的话确实没有性价比👍国内农夫种的固化不好thc含量低 进口还贵一些 还是算了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044355126517727232",
+        "conversation_id": "2046181046375657510",
+        "created_at": "2026-04-20T12:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046209065433665616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011873376445612032",
+              "start": 0,
+              "username": "MutsumiXiaomu"
+            },
+            {
+              "end": 28,
+              "id": "1866458229527764992",
+              "start": 15,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046209065433665616",
+        "in_reply_to_user_id": "2011873376445612032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046208325730353547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiXiaomu @Citrus_amara 大麻哪来的性价比，国内最贵，贵的最让人无语的物质了，春风春风看了看干瘪的钱包。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 53,
+          "like_count": 757,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T10:00:27.000Z",
+        "description": "Spring风的附庸",
+        "id": "2044355126517727232",
+        "location": "前人未至之地，前人未竟之事",
+        "name": "春风20001号#蒼い惑星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064526167177392128/GqjNlro0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 167,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "Overdose_HPD",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "Autism/Plurality/BPD/药物滥用/双相\n\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "shsh548866"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 1121,
+          "like_count": 20720,
+          "listed_count": 5,
+          "media_count": 423,
+          "tweet_count": 11642
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059802131474092032"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2059802146997235821",
+    "created_at": "2026-05-28T01:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T02:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059802146997235821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ne7CcWk2ff",
+          "end": 25,
+          "expanded_url": "https://x.com/Ta1z19/status/2059802146997235821/photo/1",
+          "media_key": "3_2059802131474092032",
+          "start": 2,
+          "url": "https://t.co/Ne7CcWk2ff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059802146997235821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早 https://t.co/Ne7CcWk2ff"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059802131474092032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXjIBIbEAAlX9e.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059802131474092032"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2059802146997235821",
+        "created_at": "2026-05-28T01:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059802146997235821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ne7CcWk2ff",
+              "end": 25,
+              "expanded_url": "https://x.com/Ta1z19/status/2059802146997235821/photo/1",
+              "media_key": "3_2059802131474092032",
+              "start": 2,
+              "url": "https://t.co/Ne7CcWk2ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059802146997235821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早 https://t.co/Ne7CcWk2ff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n被小人以施奸计被迫转世\n双相 现在已经不自伤了！很棒！\n药理学爱好者/化学爱好者/种植学爱好者",
+        "id": "2058988352054218752",
+        "name": "Ta1z9（第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 24,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 46
+        },
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

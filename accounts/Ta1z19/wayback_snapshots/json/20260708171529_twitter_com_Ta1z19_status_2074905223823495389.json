@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074905200645857280",
+        "3_2074905200595451904"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2074905223823495389",
+    "created_at": "2026-07-08T17:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T18:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074905223823495389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d2ASiR3Zw2",
+          "end": 35,
+          "expanded_url": "https://x.com/Ta1z19/status/2074905223823495389/photo/1",
+          "media_key": "3_2074905200645857280",
+          "start": 12,
+          "url": "https://t.co/d2ASiR3Zw2"
+        },
+        {
+          "display_url": "pic.x.com/d2ASiR3Zw2",
+          "end": 35,
+          "expanded_url": "https://x.com/Ta1z19/status/2074905223823495389/photo/1",
+          "media_key": "3_2074905200595451904",
+          "start": 12,
+          "url": "https://t.co/d2ASiR3Zw2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074905223823495389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还好不是在睡梦中呕吐🤮 https://t.co/d2ASiR3Zw2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2074905200645857280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuLSWMbYAAq8qN.jpg",
+        "width": 1664
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074905200595451904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuLSWAaQAAC20L.jpg",
+        "width": 1666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074905200645857280",
+            "3_2074905200595451904"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2074905223823495389",
+        "created_at": "2026-07-08T17:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074905223823495389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2ASiR3Zw2",
+              "end": 35,
+              "expanded_url": "https://x.com/Ta1z19/status/2074905223823495389/photo/1",
+              "media_key": "3_2074905200645857280",
+              "start": 12,
+              "url": "https://t.co/d2ASiR3Zw2"
+            },
+            {
+              "display_url": "pic.x.com/d2ASiR3Zw2",
+              "end": 35,
+              "expanded_url": "https://x.com/Ta1z19/status/2074905223823495389/photo/1",
+              "media_key": "3_2074905200595451904",
+              "start": 12,
+              "url": "https://t.co/d2ASiR3Zw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074905223823495389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还好不是在睡梦中呕吐🤮 https://t.co/d2ASiR3Zw2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我 睡在清醒梦",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 72,
+          "like_count": 1785,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 853
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

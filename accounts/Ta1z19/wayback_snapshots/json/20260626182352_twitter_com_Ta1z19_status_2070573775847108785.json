@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2070572359166337229",
+    "created_at": "2026-06-26T18:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070573775847108785"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070573775847108785",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070572359166337229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幻听"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2070572350941356032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwmlTOa4AAqRyT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2070572359166337229",
+        "created_at": "2026-06-26T18:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070573775847108785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070573775847108785",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070572359166337229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幻听"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070572350941356032"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2070572359166337229",
+        "created_at": "2026-06-26T18:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070572359166337229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVFCzSi49y",
+              "end": 43,
+              "expanded_url": "https://x.com/Ta1z19/status/2070572359166337229/photo/1",
+              "media_key": "3_2070572350941356032",
+              "start": 20,
+              "url": "https://t.co/FVFCzSi49y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070572359166337229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乡村海洛因 注：合理分装，无碾碎，Ai https://t.co/FVFCzSi49y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo@正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 55,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 614
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

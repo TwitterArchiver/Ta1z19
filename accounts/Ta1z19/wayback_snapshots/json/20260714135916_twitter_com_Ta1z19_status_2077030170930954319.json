@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077030162257088512",
+        "3_2077030162257117184"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2077030170930954319",
+    "created_at": "2026-07-14T13:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077030170930954319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rpdFKFeNS4",
+          "end": 103,
+          "expanded_url": "https://x.com/Ta1z19/status/2077030170930954319/photo/1",
+          "media_key": "3_2077030162257088512",
+          "start": 80,
+          "url": "https://t.co/rpdFKFeNS4"
+        },
+        {
+          "display_url": "pic.x.com/rpdFKFeNS4",
+          "end": 103,
+          "expanded_url": "https://x.com/Ta1z19/status/2077030170930954319/photo/1",
+          "media_key": "3_2077030162257117184",
+          "start": 80,
+          "url": "https://t.co/rpdFKFeNS4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077030170930954319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神秘物质 微黄色晶体碾碎 Insufflation 20mg 微微烧鼻子比某pcp程度好太多了不至于烧到流泪 只是打喷嚏流鼻涕\n注：化学实验白鼠实验 演艺道具 https://t.co/rpdFKFeNS4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_2077030162257088512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMX7ZEbEAALI7P.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1758,
+        "media_key": "3_2077030162257117184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMX7ZEbgAA76T2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077030162257088512",
+            "3_2077030162257117184"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2077030170930954319",
+        "created_at": "2026-07-14T13:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077030170930954319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpdFKFeNS4",
+              "end": 103,
+              "expanded_url": "https://x.com/Ta1z19/status/2077030170930954319/photo/1",
+              "media_key": "3_2077030162257088512",
+              "start": 80,
+              "url": "https://t.co/rpdFKFeNS4"
+            },
+            {
+              "display_url": "pic.x.com/rpdFKFeNS4",
+              "end": 103,
+              "expanded_url": "https://x.com/Ta1z19/status/2077030170930954319/photo/1",
+              "media_key": "3_2077030162257117184",
+              "start": 80,
+              "url": "https://t.co/rpdFKFeNS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077030170930954319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘物质 微黄色晶体碾碎 Insufflation 20mg 微微烧鼻子比某pcp程度好太多了不至于烧到流泪 只是打喷嚏流鼻涕\n注：化学实验白鼠实验 演艺道具 https://t.co/rpdFKFeNS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 叫我太子。emo与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 73,
+          "like_count": 1839,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 873
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

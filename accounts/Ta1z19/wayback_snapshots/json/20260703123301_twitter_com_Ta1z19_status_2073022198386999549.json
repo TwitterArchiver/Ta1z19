@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2072371452406599950",
+    "created_at": "2026-07-03T12:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073022198386999549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2055907554870583296",
+          "start": 0,
+          "username": "6_s_v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073022198386999549",
+    "in_reply_to_user_id": "2055907554870583296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072746500602704264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6_s_v 哪里不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2072371452406599950",
+        "created_at": "2026-07-03T12:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073022198386999549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2055907554870583296",
+              "start": 0,
+              "username": "6_s_v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073022198386999549",
+        "in_reply_to_user_id": "2055907554870583296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072746500602704264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6_s_v 哪里不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055907554870583296",
+        "conversation_id": "2072371452406599950",
+        "created_at": "2026-07-02T18:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072746500602704264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072746500602704264",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072371452406599950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 看不懂，可以解释一下吗，字太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 62,
+          "like_count": 1690,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 811
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T07:06:00.000Z",
+        "description": "正在学习说话",
+        "id": "2055907554870583296",
+        "name": "6sv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064582727194812416/efMkYIID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 112,
+          "like_count": 3018,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "6_s_v",
+        "verified": false
+      }
+    ]
+  }
+}

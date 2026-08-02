@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2064050062196691249",
+    "created_at": "2026-06-08T18:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T19:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064050062196691249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2007698908919803905",
+          "start": 3,
+          "username": "usglogisti12914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064050062196691249",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063653672429474235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usglogisti12914: Can anyone guess how much I spend on each of the products \nPink, cocaine,oxy, DMT, meth, XTC, Molly, speed heroin  #dr…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 562,
+        "media_key": "3_2063653265208700928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKORtgRW8AADy2i.jpg",
+        "width": 959
+      },
+      {
+        "height": 360,
+        "media_key": "3_2063653135155859456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKORl7yWEAABazv.jpg",
+        "width": 641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2064050062196691249",
+        "created_at": "2026-06-08T18:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064050062196691249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2007698908919803905",
+              "start": 3,
+              "username": "usglogisti12914"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064050062196691249",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063653672429474235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usglogisti12914: Can anyone guess how much I spend on each of the products \nPink, cocaine,oxy, DMT, meth, XTC, Molly, speed heroin  #dr…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063653265208700928",
+            "3_2063653135155859456"
+          ]
+        },
+        "author_id": "2007698908919803905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063653672429474235",
+        "created_at": "2026-06-07T16:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:04:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063653276881408493",
+          "2063653672429474235"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 115,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 132,
+              "start": 124,
+              "tag": "methtwt"
+            },
+            {
+              "end": 141,
+              "start": 133,
+              "tag": "ecstasy"
+            },
+            {
+              "end": 148,
+              "start": 142,
+              "tag": "drugs"
+            },
+            {
+              "end": 156,
+              "start": 149,
+              "tag": "heroin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3VjZpGwFz",
+              "end": 180,
+              "expanded_url": "https://x.com/usglogisti12914/status/2063653672429474235/photo/1",
+              "media_key": "3_2063653265208700928",
+              "start": 157,
+              "url": "https://t.co/p3VjZpGwFz"
+            },
+            {
+              "display_url": "pic.x.com/p3VjZpGwFz",
+              "end": 180,
+              "expanded_url": "https://x.com/usglogisti12914/status/2063653672429474235/photo/1",
+              "media_key": "3_2063653135155859456",
+              "start": 157,
+              "url": "https://t.co/p3VjZpGwFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063653672429474235",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 703,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Can anyone guess how much I spend on each of the products \nPink, cocaine,oxy, DMT, meth, XTC, Molly, speed heroin  #drugtwt #methtwt #ecstasy #drugs #heroin https://t.co/p3VjZpGwFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n🎵🎸与贝斯手 漂移\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（已老实第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 36,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T06:22:50.000Z",
+        "description": "chill to chat with 2CB fav🥰moots? send me a DM!! #shtwt / #drugtwt / #edtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "tag": "edtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signal.group/#CjQKINbZpR5mz…",
+                "end": 23,
+                "expanded_url": "https://signal.group/#CjQKINbZpR5mzcFsgotCcxgB7RCMTVsePWId-pbGNRFKymkuEhCEY-YuVK0Dpoea2V8rTJAA",
+                "start": 0,
+                "url": "https://t.co/oT8oViPoEz"
+              }
+            ]
+          }
+        },
+        "id": "2007698908919803905",
+        "name": "Antwan Hill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057644998892396545/zZKVcvqD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 1314,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/oT8oViPoEz",
+        "username": "usglogisti12914",
+        "verified": true
+      }
+    ]
+  }
+}

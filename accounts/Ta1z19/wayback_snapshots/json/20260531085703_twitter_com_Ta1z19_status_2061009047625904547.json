@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2060928120320905503",
+    "created_at": "2026-05-31T08:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061009047625904547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990083055231631361",
+          "start": 0,
+          "username": "1willhateu4ever"
+        },
+        {
+          "end": 33,
+          "id": "2035910882140782592",
+          "start": 17,
+          "username": "psychoactiveday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061009047625904547",
+    "in_reply_to_user_id": "1990083055231631361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060964109743747378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1willhateu4ever @psychoactiveday 这个太贵了 而且还可能被晶上门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2060928120320905503",
+        "created_at": "2026-05-31T08:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061009047625904547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990083055231631361",
+              "start": 0,
+              "username": "1willhateu4ever"
+            },
+            {
+              "end": 33,
+              "id": "2035910882140782592",
+              "start": 17,
+              "username": "psychoactiveday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061009047625904547",
+        "in_reply_to_user_id": "1990083055231631361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060964109743747378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1willhateu4ever @psychoactiveday 这个太贵了 而且还可能被晶上门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990083055231631361",
+        "conversation_id": "2060928120320905503",
+        "created_at": "2026-05-31T05:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060964109743747378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035910882140782592",
+              "start": 0,
+              "username": "psychoactiveday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060964109743747378",
+        "in_reply_to_user_id": "2035910882140782592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060928120320905503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psychoactiveday 已下单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度小世界\n可以叫我太子\n被小人以施奸计被迫转世\n双相混合 精神分裂\n药理学爱好者/化学爱好者/种植爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DFEns7kYK3o3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DFEns7kYK3o3NjBh",
+                "start": 0,
+                "url": "https://t.co/zOQTNxxpJ8"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz（已老实第三世）",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 24,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/zOQTNxxpJ8",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "在你的個人資料上加入自我介紹",
+        "id": "1990083055231631361",
+        "location": "多米力高威威维利星",
+        "name": "^ ^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059004134586748928/iVOHh1md_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 31,
+          "like_count": 5528,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3423
+        },
+        "username": "1willhateu4ever",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T02:45:55.000Z",
+        "description": "客观唯心主义✝️；\n地球🌏online正式链接；\n相信永生；有罪的人；一个神经病：\n自主神经持续异常；心理药理咨询；",
+        "id": "2035910882140782592",
+        "name": "精神活性的空气力学（💊）",
+        "pinned_tweet_id": "2060305980282339647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059885023684132868/4Xx8wXQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 48,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 160
+        },
+        "username": "psychoactiveday",
+        "verified": false
+      }
+    ]
+  }
+}

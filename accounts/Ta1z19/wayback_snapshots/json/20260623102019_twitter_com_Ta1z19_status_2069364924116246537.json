@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2069356261746069868",
+    "created_at": "2026-06-23T10:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069364924116246537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520477092751998976",
+          "start": 0,
+          "username": "3pQ8Y4t2VlI0urq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069364924116246537",
+    "in_reply_to_user_id": "1520477092751998976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069363344239366177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3pQ8Y4t2VlI0urq 一直都有 只是每次开药都要走流程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2069356261746069868",
+        "created_at": "2026-06-23T10:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069364924116246537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520477092751998976",
+              "start": 0,
+              "username": "3pQ8Y4t2VlI0urq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069364924116246537",
+        "in_reply_to_user_id": "1520477092751998976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069363344239366177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3pQ8Y4t2VlI0urq 一直都有 只是每次开药都要走流程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520477092751998976",
+        "conversation_id": "2069356261746069868",
+        "created_at": "2026-06-23T10:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069363344239366177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069363344239366177",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069356261746069868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 宝宝办到麻卡了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 西点师 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 55,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 530
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T18:57:25.000Z",
+        "description": "精神疾病/重抑重焦/od/生命科学专业",
+        "id": "1520477092751998976",
+        "name": "时空鲨鱼皮",
+        "pinned_tweet_id": "1742578852528902463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701116063419887616/w5Q6c-uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 280,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "3pQ8Y4t2VlI0urq",
+        "verified": false
+      }
+    ]
+  }
+}

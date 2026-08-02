@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068130172067577856"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2068130180854681902",
+    "created_at": "2026-06-20T00:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T01:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068130180854681902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/16hpGrQcXj",
+          "end": 55,
+          "expanded_url": "https://x.com/Ta1z19/status/2068130180854681902/photo/1",
+          "media_key": "3_2068130172067577856",
+          "start": 32,
+          "url": "https://t.co/16hpGrQcXj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068130180854681902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "短短一天被无数次当成小哑巴。希望大家对聋哑人士多些关爱多点耐心 https://t.co/16hpGrQcXj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068130172067577856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLN5bx9bAAASjWT.jpg",
+        "width": 1752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068130172067577856"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2068130180854681902",
+        "created_at": "2026-06-20T00:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068130180854681902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/16hpGrQcXj",
+              "end": 55,
+              "expanded_url": "https://x.com/Ta1z19/status/2068130180854681902/photo/1",
+              "media_key": "3_2068130172067577856",
+              "start": 32,
+              "url": "https://t.co/16hpGrQcXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068130180854681902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "短短一天被无数次当成小哑巴。希望大家对聋哑人士多些关爱多点耐心 https://t.co/16hpGrQcXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 52,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 429
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

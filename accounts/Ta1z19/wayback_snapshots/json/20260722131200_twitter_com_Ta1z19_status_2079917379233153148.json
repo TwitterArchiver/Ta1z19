@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2079917379233153148",
+    "created_at": "2026-07-22T13:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079917379233153148"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079917379233153148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近现实与互联网都属于孤儿状态，再强效的物质都不能消除痛苦，我尝试与痛苦并存或是不在意痛苦，但反噬那一刻如此猛烈，脱离了一切我还是那个逃避眼前一切的胆小鬼。留下的只有满身针孔与破碎的脑神经。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2079917379233153148",
+        "created_at": "2026-07-22T13:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079917379233153148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079917379233153148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近现实与互联网都属于孤儿状态，再强效的物质都不能消除痛苦，我尝试与痛苦并存或是不在意痛苦，但反噬那一刻如此猛烈，脱离了一切我还是那个逃避眼前一切的胆小鬼。留下的只有满身针孔与破碎的脑神经。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 叫我太子。emo与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 71,
+          "like_count": 1861,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 886
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}
