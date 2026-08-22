@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088931389467189248"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "conversation_id": "2088931400972214562",
+    "created_at": "2026-08-16T10:10:31.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088931400972214562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ezfyFuHPL6",
+          "end": 40,
+          "expanded_url": "https://x.com/Ta1z19/status/2088931400972214562/photo/1",
+          "media_key": "3_2088931389467189248",
+          "start": 17,
+          "url": "https://t.co/ezfyFuHPL6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088931400972214562",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088931389467189248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恶堕了 放纵了 聊起来了 想做爱 https://t.co/ezfyFuHPL6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088931389467189248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1gB_Va4AA8CIr.jpg",
+        "width": 1702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088931389467189248"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2088931400972214562",
+        "created_at": "2026-08-16T10:10:31.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088931400972214562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezfyFuHPL6",
+              "end": 40,
+              "expanded_url": "https://x.com/Ta1z19/status/2088931400972214562/photo/1",
+              "media_key": "3_2088931389467189248",
+              "start": 17,
+              "url": "https://t.co/ezfyFuHPL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088931400972214562",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088931389467189248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恶堕了 放纵了 聊起来了 想做爱 https://t.co/ezfyFuHPL6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸 疯狂练琴的贝斯与节奏吉他手 不涉政不吸毒喜欢会回fo 叫我太子。emo/盯鞋/华丽金属 我只存在於我",
+        "id": "2058988352054218752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088931400972214562",
+        "name": "Ta1z9 3.0",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 74,
+          "like_count": 1906,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 932
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

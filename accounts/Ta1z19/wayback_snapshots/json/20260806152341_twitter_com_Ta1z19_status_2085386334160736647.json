@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2084692690994913674",
+    "created_at": "2026-08-06T15:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085386334160736647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018362385204129792",
+          "start": 0,
+          "username": "yuanoo3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085386334160736647",
+    "in_reply_to_user_id": "2018362385204129792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085212145424462237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanoo3o 真的很好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2084692690994913674",
+        "created_at": "2026-08-06T15:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085386334160736647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018362385204129792",
+              "start": 0,
+              "username": "yuanoo3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085386334160736647",
+        "in_reply_to_user_id": "2018362385204129792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085212145424462237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanoo3o 真的很好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018362385204129792",
+        "conversation_id": "2084692690994913674",
+        "created_at": "2026-08-06T03:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085212145424462237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085212145424462237",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084692690994913674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 好想吃你下的面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸 疯狂练琴的吉他手 不涉政不吸毒喜欢会回fo 叫我太子。emo/盯鞋/华丽金属 我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 70,
+          "like_count": 1899,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 924
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T16:34:37.000Z",
+        "description": "",
+        "id": "2018362385204129792",
+        "name": "十六笔一个操",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081905844623679488/6jsBueuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 104,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "yuanoo3o",
+        "verified": false
+      }
+    ]
+  }
+}
