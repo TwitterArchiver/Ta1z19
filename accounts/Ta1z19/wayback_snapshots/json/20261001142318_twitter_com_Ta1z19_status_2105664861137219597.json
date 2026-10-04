@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2105663972246687878",
+    "created_at": "2026-10-01T14:23:18.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T15:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105664861137219597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2103931868261568512",
+          "start": 0,
+          "username": "Beatrice3Mint5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105664861137219597",
+    "in_reply_to_user_id": "2103931868261568512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105663972246687878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beatrice3Mint5 加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2321,
+        "height": 1920,
+        "media_key": "13_2105663930941235200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105663930941235200/img/UiWmsm3wt5cIovdk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105663930941235200/vid/avc1/480x852/vGQl8N0hdq-8Ec8h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105663930941235200/pl/yibDout8LG-YMxiM.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105663930941235200/vid/avc1/320x568/i90vmcTWC35VrAZ3.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105663930941235200/vid/avc1/1080x1920/JOnNs6S7cx4pcZxJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105663930941235200/vid/avc1/720x1280/CYteRrg6tG1Q-Kxg.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 2321,
+        "height": 1920,
+        "media_key": "13_2105663930853163008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105663930853163008/img/nXZ86Zu5baZL0D_E.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105663930853163008/pl/lPybL1iLt0xp7jc0.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105663930853163008/vid/avc1/320x568/J0o9CP1jFzHnRa3P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105663930853163008/vid/avc1/720x1280/yan_iM-2qw_jUXb5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105663930853163008/vid/avc1/1080x1920/EfItWr0p4y7GH70U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105663930853163008/vid/avc1/480x852/t4i9-iak_Sgo9ndy.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2105663972246687878",
+        "created_at": "2026-10-01T14:23:18.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105664861137219597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2103931868261568512",
+              "start": 0,
+              "username": "Beatrice3Mint5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105664861137219597",
+        "in_reply_to_user_id": "2103931868261568512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105663972246687878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beatrice3Mint5 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105663930941235200",
+            "13_2105663930853163008"
+          ]
+        },
+        "author_id": "2103931868261568512",
+        "conversation_id": "2105663972246687878",
+        "created_at": "2026-10-01T14:19:46.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105663972246687878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5M3qK4d1uX",
+              "end": 33,
+              "expanded_url": "https://x.com/Beatrice3Mint5/status/2105663972246687878/video/1",
+              "media_key": "13_2105663930941235200",
+              "start": 10,
+              "url": "https://t.co/5M3qK4d1uX"
+            },
+            {
+              "display_url": "pic.x.com/5M3qK4d1uX",
+              "end": 33,
+              "expanded_url": "https://x.com/Beatrice3Mint5/status/2105663972246687878/video/1",
+              "media_key": "13_2105663930853163008",
+              "start": 10,
+              "url": "https://t.co/5M3qK4d1uX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105663972246687878",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105663930941235200"
+          },
+          {
+            "media_key": "13_2105663930853163008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门去商k上班了🍺 https://t.co/5M3qK4d1uX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸 疯狂练琴的贝斯与节奏吉他手 不涉政不吸毒喜欢会回fo 叫我太子。emo核/盯鞋//另类摇滚 我只存在於我",
+        "id": "2058988352054218752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105664861137219597",
+        "name": "Ta1z9 3.0",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 77,
+          "like_count": 1952,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-26T19:39:31.000Z",
+        "description": "前世@Mintink4以及@Mintink3\n165cm/41kg/重度焦虑➕重度睡眠障碍治疗中 寻回互fo中 每日关注上限了😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Mintink4"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Mintink3"
+              }
+            ]
+          }
+        },
+        "id": "2103931868261568512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105664861418184854",
+        "name": "Beatrice三世",
+        "pinned_tweet_id": "2103941496517099586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103931868261568512/1790453767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103941661198008320/kFBWbLRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3144,
+          "following_count": 117,
+          "like_count": 281,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "Beatrice3Mint5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

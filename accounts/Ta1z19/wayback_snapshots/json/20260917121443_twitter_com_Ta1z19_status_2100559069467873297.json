@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058988352054218752",
+    "conversation_id": "2099096426957709423",
+    "created_at": "2026-09-17T12:14:43.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T13:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100559069467873297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1570381073850462209",
+          "start": 0,
+          "username": "hzpl12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100559069467873297",
+    "in_reply_to_user_id": "1570381073850462209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099144224390382046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzpl12 射射"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2099096426957709423",
+        "created_at": "2026-09-17T12:14:43.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100559069467873297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1570381073850462209",
+              "start": 0,
+              "username": "hzpl12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100559069467873297",
+        "in_reply_to_user_id": "1570381073850462209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099144224390382046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzpl12 射射"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570381073850462209",
+        "conversation_id": "2099096426957709423",
+        "created_at": "2026-09-13T14:32:37.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099144224390382046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099144224390382046",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099096426957709423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 舌头真性感"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸 疯狂练琴的贝斯与节奏吉他手 不涉政不吸毒喜欢会回fo 叫我太子。emo核/盯鞋/另类摇滚 我只存在於我",
+        "id": "2058988352054218752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100559069467873297",
+        "name": "Ta1z9 3.0",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 72,
+          "like_count": 1913,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 930
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-15T11:56:47.000Z",
+        "description": "",
+        "id": "1570381073850462209",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100470702919041141",
+        "name": "hzpl",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 43,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "hzpl12",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

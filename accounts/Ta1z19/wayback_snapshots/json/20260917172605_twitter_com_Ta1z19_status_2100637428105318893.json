@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100637418219294720"
+      ]
+    },
+    "author_id": "2058988352054218752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100637428105318893",
+    "created_at": "2026-09-17T17:26:05.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T18:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100637428105318893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bsZyI7Afg6",
+          "end": 57,
+          "expanded_url": "https://x.com/Ta1z19/status/2100637428105318893/photo/1",
+          "media_key": "3_2100637418219294720",
+          "start": 34,
+          "url": "https://t.co/bsZyI7Afg6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100637428105318893",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100637418219294720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "痛苦从不表述 但一直被oxy（奥施康定）记录 注：未滥用 病情需要 https://t.co/bsZyI7Afg6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1278,
+        "media_key": "3_2100637418219294720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSb2mira0AATq76.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100637418219294720"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100637428105318893",
+        "created_at": "2026-09-17T17:26:05.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100637428105318893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsZyI7Afg6",
+              "end": 57,
+              "expanded_url": "https://x.com/Ta1z19/status/2100637428105318893/photo/1",
+              "media_key": "3_2100637418219294720",
+              "start": 34,
+              "url": "https://t.co/bsZyI7Afg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100637428105318893",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100637418219294720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痛苦从不表述 但一直被oxy（奥施康定）记录 注：未滥用 病情需要 https://t.co/bsZyI7Afg6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸 疯狂练琴的贝斯与节奏吉他手 不涉政不吸毒喜欢会回fo 叫我太子。emo核/盯鞋//另类摇滚 我只存在於我",
+        "id": "2058988352054218752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100637428105318893",
+        "name": "Ta1z9 3.0",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 72,
+          "like_count": 1921,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 931
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
